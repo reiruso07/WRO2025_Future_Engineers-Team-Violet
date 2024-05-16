@@ -23,7 +23,9 @@ _Now, we will expand in the main aspects used and incluided in the robot car's d
 
   
      Elements
-  
+
+  -  _L298N: The L298N Motor Driver Module is a potent module designed to operate DC and Stepper Motors. It is composed of an L298 motor driver integrated circuit and a 78M05 5V regulator. The L298N Module has the capacity to manage up to 4 DC motors, or it can control 2 DC motors with the ability to adjust direction and speed._
+    
   -   _Motors: The robot has 1 direct current (DC) motor and 1 SG90 servomotor that allow it to move in different directions. Meanwhile the DC motor serves as rear wheel drive, the servomotor gives it the ability to turn left or right. The rear wheel drive motor provides the forward or backward motion of the robot, while the turning motor rotates the front wheels to change the orientation of the robot. By combining these two motions, the robot can move in any direction on a flat surface._  
 
   -   _Arduino Mega 2560 Wifi R3: The MEGA2560 Wifi is a variant that includes an ESP8266 Wifi chip. The microcontroller is still an Atmel ATmega2560 compatible with Arduino and also has an ESP8266EX all on the same board, the serial-USB converter is a CH340G and through a DIP switch it allows you to configure the board to work independently of the MCU, enable the CH340 to upload code for either the ATmega2560 or ESP8266EX._
@@ -31,16 +33,17 @@ _Now, we will expand in the main aspects used and incluided in the robot car's d
   -   _Raspberry Pi 4: The Raspberry Pi 4 is a single-board development board used for entry-level computing, being released the latest version (Raspberry Pi 4) in June 2019. The board is available in four RAM variants: 1 GB, 2 GB, 4 GB, and 8 GB. Model B (the one we are using) is the most common and comes with a Broadcom BCM2711 processor, which is a 1.5GHz quad-core ARM Cortex-A72 processor. Additionally, it has enhanced USB capability with two USB 2.0 ports and two USB 3.0 ports, enabling up to ten times faster data transfers. It also comes with Gigabit Ethernet connectivity, built-in wireless and Bluetooth._
 
    -   _Ultrasonics: The robot has an 3 HC-SR04 ultrasonics board that works as a sonar, on the left, right and front. The HC-SR04 sensor has two transducers: a piezoelectric transmitter and receiver, in addition to the electronics necessary for its operation. The operation of the sensor is as follows: the piezoelectric transmitter emits 8 ultrasonic pulses (40KHz) after receiving the order on the TRIG pin, the sound waves travel in the air and bounce when meeting an object, the bounce sound is detected by the piezoelectric receiver, then the ECHO pin changes to High (5V) for a time equal to the time the wave took from when it was emitted to when it was detected, the time of the ECHO pulse is measured by the microcontroller and thus the distance can be calculated to the object. Sensor performance is not affected by sunlight or black-colored material (although acoustically soft materials such as cloth or wool can be difficult to detect). All of this in a range of 2 to 450 cm._
+
+   -   _TCS230 Color Sensor: The TCS230 is a programmable color light-to-frequency converter that merges adjustable silicon photodiodes and a current-to-frequency converter into a single CMOS integrated circuit. It produces a square wave output where the frequency is directly related to the intensity of light._
   
    -   _Camera: The robot uses an Argom Tech 720p Cam20 Webcam, (pretty generic honestly but hey, its something i guess.)_
 
 
-
    -   _Power Supply Elements:_
    
-   =   _3.7V 18650 Lithium Batteries: The robot, due to its high energy consumption (yeh, still uses a lot of energy) uses this peculiar type of batteries to supply itself with energy. These batteries are rechargeable and have a capacity of between 1500 and 3500 mAh (ours supposedly have 9900 mAh but I highly doubt it). The batteries have a nominal voltage of 3.7V and a maximum voltage of 4.2V. The batteries are connected to the robot through a battery holder that has an on/off switch. The batteries can be charged with a special charger that has a protection circuit against overloads and short circuits._
+   =   _x4 1.5 LR6 Batteries: It is used as power supply for the DC motor._
 
-   =   _Power Bank: We use a ONN ONA18WIO63 Power Bank to supply the Raspberry Pi with energy. It has 1 USB ports, along with a Micro-USB port for charging, with an output voltage of 5V and 2.4A._
+   =   _Power Bank: We use a ONN ONA18WIO63 Power Bank to supply Raspberry Pi and the Arduino Mega with energy. It has 1 USB ports, along with a Micro-USB port for charging, with an output voltage of 5V and 2.4A._
 
 
     Coding Environments
@@ -64,9 +67,9 @@ _The artificial vision algorithms that are used to recognize objects or colors a
     HOW TO COMPILE THE CODE TO THE VEHICLE
 - _Connect the Arduino Mega to the computer through a Micro-USB cable_
 - _Look for the button in the Programming Environment to transfer the code_
-- _Wait for it to finish_
+- _Wait to finish_
 
-  {Raspberry Pi 4 it is not necessary to specify, because of course, it can run python natively}
+  {Raspberry Pi 4 it is not necessary to specify because of course, it can run python natively}
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
