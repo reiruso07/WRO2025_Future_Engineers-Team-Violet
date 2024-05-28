@@ -13,7 +13,7 @@ Engineering materials
 
 ## Introduction
 
-_Hello, here were are from Team Violet, lets go a deeper into how this seasons robot is made up._
+_Hello, Team Violet here, let's go a deeper into how this seasons robot is made up._
 
 -------------------------------------------------------------------------------------------------------------------------------------  
 
