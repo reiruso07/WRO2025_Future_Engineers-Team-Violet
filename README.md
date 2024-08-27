@@ -1,4 +1,4 @@
-# Engineering Documentation - Team Violet ![](blob:chrome-untrusted://media-app/ec55eaca-4b4f-45dc-b935-9477df0dcfae)
+# Engineering Documentation - Team Violet ![niggers](blob:chrome-untrusted://media-app/ec55eaca-4b4f-45dc-b935-9477df0dcfae)
 ### Introduction
 hhhhhhh
 
