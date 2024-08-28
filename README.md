@@ -47,7 +47,7 @@ Another of these changes was the reorganization of its elements, given the chang
 
 With all these changes made, a 3D design for the entire structure of the robot was made, thus facilitating its visualization and analysis.
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> This model is present in the "OTHER" folder, along with captures of all six visual angles of the robot (front, back, left, right, above, below) .
 
 
 ## Elements
