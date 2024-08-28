@@ -9,6 +9,8 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 - Hardware Design
    - Design Process
    - Elements
+     - 3D printed
+     - Electronics
 - Software Design
    - Image and Color Analysis
      - Image Capturing
