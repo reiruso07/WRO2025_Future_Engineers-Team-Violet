@@ -50,7 +50,7 @@ With all these changes made, a 3D design for the entire structure of the robot w
 ## Elements
 ### 3D Printed
 > [!NOTE]
-> All of these pieces are printed in nanana plastic.
+> All of these pieces are printed in nanana plastic, with a filler level of tatata etc.
 - Main Chassis: 
 
 ### Electronics
