@@ -55,7 +55,15 @@ Firstly, you fixate this piece into the chassis, then the second module tatata, 
 ### 3D Printed
 > [!NOTE]
 > All of these pieces are printed in nanana plastic, with a filler level of tatata etc.
-- **Main Chassis**: 
+
+- **Main Chassis**:
+
+- **Hex Motor Support Bracket**:
+
+- **Bumper**:
+
+- **Crossing System**:
+  
 
 ### Electronics
   -  _L298N: The L298N Motor Driver Module is a potent module designed to operate DC and Stepper Motors. It is composed of an L298 motor driver integrated circuit and a 78M05 5V regulator. The L298N Module has the capacity to manage up to 4 DC motors, or it can control 2 DC motors with the ability to adjust direction and speed._
