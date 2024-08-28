@@ -25,15 +25,17 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
      - Lane Determination
      - Robot Orientation
 
+## Team Violet's Members
+ - Adrian Alvarez:
+ - Reinaldo Belmonte:
+ - Jose Zambrano:
 
 
+## Hardware Design
+# Design Process
+The designed robot is inspired by a Raspberry Pi kit, both the rotation system and the chassis. This robot car is powered by Arduino MEGA and Raspberry Pi 4 and programmed in C++ (ARDUINO IDE) and Python.
 
 
--------------------------------------------------------------------------------------------------------------------------------------  
-
-_The designed robot is inspired by a Raspberry Pi kit, both the rotation system and the chassis. This robot car is powered by Arduino MEGA and Raspberry Pi 4 and programmed in C++ (ARDUINO IDE) and Python._
-
-_Now, we will expand in the main aspects used and incluided in the robot car's development (**Elements** and **Coding Environments**):_
 
   
      Elements
