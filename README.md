@@ -26,8 +26,8 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
      - Robot Orientation
 
 # Team Violet's Members
- - Adrian Alvarez:  _Hi, my name is Adrian Alvarez, I'm part of Team Violet 1 and I'm responsible for the 3D designs used in the robot.
-My expectations of this competition are to learn and to test my skills in robotics._
+ - Adrian Alvarez:  > Hi, my name is Adrian Alvarez, I'm part of Team Violet 1 and I'm responsible for the 3D designs used in the robot.
+My expectations of this competition are to learn and to test my skills in robotics.
  - Reinaldo Belmonte:
  - Jose Zambrano:
 
