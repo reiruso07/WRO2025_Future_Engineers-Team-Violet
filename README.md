@@ -93,7 +93,6 @@ Firstly, you fixate this piece into the chassis, then the second module tatata, 
 
 # Software Design
 ## Image and Color Processing
-tatata
 ### Image Capturing
 nan
 ### Image Filter (RGB to HSV)
@@ -110,7 +109,6 @@ nan
 nan
 
 ## Robot Movement
-tetetete
 ### Servomotor setting
 nrue
 ### Lane Determination
