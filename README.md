@@ -46,9 +46,6 @@ Same thing with the turning system, being the original servomotor replaced with 
 Another of these changes was the reorganization of its elements, given the changes in the motors used and the space they now occupied, we made a redistribution to most of the elements present in the robot, this time taking into account to make it even more accessible for repairs or adjustments to any of its parts.
 
 With all these changes made, a 3D design for the entire structure of the robot was made, thus facilitating its visualization and analysis.
-> [!NOTE]
-> This model is present in the "OTHER" folder, along with captures of all six visual angles of the robot (front, back, left, right, above, below) .
-
 
 ## Elements
 
