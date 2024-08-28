@@ -13,7 +13,7 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
      - 3D Printed
      - Electronics
 - Software Design
-   - Image and Color Analysis
+   - Image and Color Processing
      - Image Capturing
      - Image Filter (RGB to HSV)
      - Creating Red and Green masks
@@ -91,37 +91,20 @@ Firstly, you fixate this piece into the chassis, then the second module tatata, 
    =   _Power Bank: We use a ONN ONA18WIO63 Power Bank to supply Raspberry Pi and the Arduino Mega with energy. It has 1 USB ports, along with a Micro-USB port for charging, with an output voltage of 5V and 2.4A._
 
 
-    Coding Environments
+# Software Design
+## Image and Color Processing
+tatata
 
-  -   _ARDUINO Integrated Development Environment (C++): The Arduino Integrated Development Environment (IDE) is a cross-platform software (for Windows, macOS, Linux) written in the Java programming language. It is used to write and upload code to Arduino-compatible boards, as well as other boards from different manufacturers with the help of additional cores._
 
-_It can handle C and C++ languages with specific rules for organizing the code. It also provides a software library from the Wiring project that has many common I/O functions. The code written by users only needs two basic functions: one to start the sketch and one to run the main loop. These functions are compiled and linked with a main() function in a loop using the GNU toolchain, which is also part of the IDE. The Arduino IDE uses a program called avrdude to turn the executable code into a text file with hexadecimal encoding that is transferred to the Arduino board by a loader program in the board’s firmware._
+## Robot Movement
 
-Its function related to code would be to control movements (rear wheel drive, turn left or right), based on the information sent by the camera (more info ahead).
 
-  -   _Python: Python Integrated Development Environment (or Python for short) is a high-level interpreted programming language whose philosophy emphasizes the readability of its code, it is used to develop applications of all kinds, for example: Instagram, Netflix, Spotify, Panda3D, among others. It is a multi-paradigm programming language, since it partially supports object orientation, imperative programming and, to a lesser extent, functional programming. It is an interpreted, dynamic and cross-platform language. Created back in late 80s, Python consistently ranks as one of the most popular programming languages._
 
-Its function related to code would be to detect colors and control the camera, and, subsequently, sends orders to the ESP-32 to move based on that information.
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-    HOW THE CAMERA WORKS
-
-_The artificial vision algorithms that are used to recognize objects or colors are computer programs that process the images captured by the camera and extract relevant information from them. For example, to recognize colors, We use an algorithm that converts color images to grayscale and then applies a red, green or blue color mask depending on the color we want to detect. Then, we calculate the percentage of pixels of the desired color in the image and compare it with a predefined threshold to determine whether or not there is presence of the color._
-
-    HOW TO COMPILE THE CODE TO THE VEHICLE
-- _Connect the Arduino Mega to the computer through a Micro-USB cable_
-- _Look for the button in the Programming Environment to transfer the code_
-- _Wait to finish_
-
-  {Raspberry Pi 4 it is not necessary to specify because of course, it can run python natively}
+# Team History
+## 2023 Season
+tatatta
+## Early 2024 Season
 
 --------------------------------------------------------------------------------------------------------------------------------------
-
-    OBJECTIVE OF THE ROBOTIC SOLUTION.
-
-The purpose of this robotic solution is to showcase the abilities of the field of robotics.
-
---------------------------------------------------------------------------------------------------------------------------------------
-_Thank You. Team Violet - 2024._
+Thank You. Team Violet - 2024.
 ======================================================================================================================================
