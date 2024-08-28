@@ -1,7 +1,7 @@
 # Engineering Documentation - Team Violet ![](blob:chrome-untrusted://media-app/ec55eaca-4b4f-45dc-b935-9477df0dcfae.png)
 ### Introduction
 hhhhhhh
-
+![Captura de pantalla 2024-07-23 114146](https://github.com/user-attachments/assets/25af60a6-2cc6-4f8f-8277-4ab36c349cba)
 
 
 
