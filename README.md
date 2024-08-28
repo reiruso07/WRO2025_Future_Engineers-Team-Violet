@@ -39,7 +39,6 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 The final design of the robot is intended as a modular design, consisting of 3 modules: lower "traction" module, middle "electronics" module, and upper "power supply and color processing" module.
 
 The robot went through a multitude of changes until it reached its final iteration.
-
 One of these changes was the replacement of the traditional motors that we used before with a Hex Motor, which had a greater strength to the wheels. 
 
 Same thing with the turning system, being the original servomotor replaced with a more efficient and precise model at the moment of the turns.
