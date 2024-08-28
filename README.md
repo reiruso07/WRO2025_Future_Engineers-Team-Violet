@@ -1,8 +1,27 @@
-# Engineering Documentation - Team Violet ![](blob:chrome-untrusted://media-app/ec55eaca-4b4f-45dc-b935-9477df0dcfae.png)
-### Introduction
-hhhhhhh
-!
+# Engineering Documentation - Team Violet 
 ![f3ea4b6a1b1a032c93fc61f042ce0fb9](https://github.com/user-attachments/assets/d4b777cf-579c-41cd-bcf2-25b11e67dbe0)
+## Introduction
+In this repository you will find all the information related to the construction and assembly of the autonomous robot built by Team Violet for the Future Engineers category in the 2024 Season.
+This has been an incredible journey with a lot of obstacles, and we have done our best to come up with a design that we were not only satisfied with, but one that could properly acomplish all of the objectives present in this edition of the "Future Engineers" category.
+
+## Contents
+- Team Violet's Members
+- Hardware Design
+   - Design Process
+   - Elements
+- Software Design
+   - Image and Color Analysis
+     - Image Capturing
+     - Image Filter (RGB to HSV)
+     - Creating Red and Green masks
+     - Gray Image with red and green details
+     - Color Detection
+     - Location Processing and distance from the cones
+     - Data Sending
+   - Robot Movement
+     - Servomotor setting
+     - Lane Determination
+     - Robot Orientation
 
 
 
