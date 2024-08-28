@@ -25,6 +25,9 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
      - Servomotor setting
      - Lane Determination
      - Robot Orientation
+ - Team History
+     - 2023 Season
+     - Early 2024 Season
 
 # Team Violet's Members
  - Adrian Alvarez:
