@@ -26,7 +26,8 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
      - Robot Orientation
 
 # Team Violet's Members
- - Adrian Alvarez:
+ - Adrian Alvarez: _Hi, my name is Adrian Alvarez, I'm part of Team Violet 1 and I'm in responsible for the 3D design part.
+my expectations of this competition are to learn and to test my skills in robotics._
  - Reinaldo Belmonte:
  - Jose Zambrano:
 
@@ -36,9 +37,7 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 The designed robot is inspired by a Raspberry Pi kit, both the rotation system and the chassis. This robot car is powered by Arduino MEGA and Raspberry Pi 4 and programmed in C++ (ARDUINO IDE) and Python.
 
 
-
-  
-     Elements
+## Elements
 
   -  _L298N: The L298N Motor Driver Module is a potent module designed to operate DC and Stepper Motors. It is composed of an L298 motor driver integrated circuit and a 78M05 5V regulator. The L298N Module has the capacity to manage up to 4 DC motors, or it can control 2 DC motors with the ability to adjust direction and speed._
     
