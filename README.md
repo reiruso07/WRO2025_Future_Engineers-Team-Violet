@@ -94,28 +94,28 @@ Firstly, you fixate this piece into the chassis, then the second module tatata, 
 # Software Design
 ## Image and Color Processing
 tatata
-# Image Capturing
+### Image Capturing
 nan
-# Image Filter (RGB to HSV)
+### Image Filter (RGB to HSV)
 nan
-# Creating Red and Green masks
+### Creating Red and Green masks
 nan
-# Gray Image with red and green details
+### Gray Image with red and green details
 nan
-# Color Detection
+### Color Detection
 nan
-# Location Processing and distance from the cones
+### Location Processing and distance from the cones
 nan
-# Data Sending
+### Data Sending
 nan
 
 ## Robot Movement
 tetetete
-# Servomotor setting
+### Servomotor setting
 nrue
-# Lane Determination
+### Lane Determination
 nrue
-# Robot Orientation
+### Robot Orientation
 nrue
 
 
