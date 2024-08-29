@@ -62,8 +62,9 @@ Firstly, you take the 3D Printed Chassis piece, and
 
 ![Chasis ](https://github.com/user-attachments/assets/4bc21b17-8df1-40f3-ae54-3438c463f794)
 - **Hex Motor Support Bracket**: A piece that helps fasten the Hex Motor to the Main Chassis structure.
-
+![Captura de pantalla 2024-08-28 165822](https://github.com/user-attachments/assets/502acad3-09d8-465e-a6b3-565f42a7e9db)
 - **Servo Motor Support Bracket**: A piece that helps fasten the Servo Motor to the Main Chassis structure.
+![arandela](https://github.com/user-attachments/assets/64236518-149f-4973-b0b6-89a039fa6cf2)
 
 - **HC-SR04 Support Bracket**: Located in the "Bumper" piece, it serves the purpose of supporting the HC-SR04 ultrasonic sensor and allow it to function properly.
 
