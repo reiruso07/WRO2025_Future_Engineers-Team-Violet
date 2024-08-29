@@ -71,7 +71,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 - **Bumper**: Used as a extension of the Main Chassis piece, it is used to locate the HC-SR04 sensors a little further ahead so it can detect the walls more easily.
 ![Diseño sin título (2)](https://github.com/user-attachments/assets/e086b3ef-9450-4917-b05d-0d8dfc55d821)
 - **Crossing System**: As it's name says, this part allows to transfer the movement of the servomotor to the front wheels, allowing the robot to change direction.
-
+![Team Violet (2)](https://github.com/user-attachments/assets/ad017619-b545-498f-b5d1-4f590f547603)
 
 ### Electronics
   -  _L298N: The L298N Motor Driver Module is a potent module designed to operate DC and Stepper Motors. It is composed of an L298 motor driver integrated circuit and a 78M05 5V regulator. The L298N Module has the capacity to manage up to 4 DC motors, or it can control 2 DC motors with the ability to adjust direction and speed._
