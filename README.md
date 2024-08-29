@@ -85,16 +85,16 @@ Firstly, you take the 3D Printed Chassis piece, and
   -   Hex Motor: The robot uses 1 REV Robotics Hex Motor for the rear wheel drive, located on the lower module of the robot.
 > [!IMPORTANT]
 > Specifications
-- Output Shaft: 5mm Female Hex
-- Weight: 7 oz
-- Voltage: 12V DC
-- Free Speed: 125 RPM
-- Stall Torque: 3.2 N-m
-- Stall Current: 4.4 A
-- Gear Ratio: 72:1
-- Encoder Counts per Revolution
-- At the motor - 4 counts/revolution
-- At the output - 288 counts/revolution.
+>- Output Shaft: 5mm Female Hex
+>- Weight: 7 oz
+>- Voltage: 12V DC
+>- Free Speed: 125 RPM
+>- Stall Torque: 3.2 N-m
+>- Stall Current: 4.4 A
+>- Gear Ratio: 72:1
+>- Encoder Counts per Revolution
+>- At the motor - 4 counts/revolution
+>- At the output - 288 counts/revolution.
 
   -   Arduino Mega 2560 Wifi R3 + Arduino Custom Shield: The MEGA2560 Wifi is a variant that includes an ESP8266 Wifi chip. The microcontroller is still an Atmel ATmega2560 compatible with Arduino and also has an ESP8266EX all on the same board, the serial-USB converter is a CH340G and through a DIP switch it allows you to configure the board to work independently of the MCU, enable the CH340 to upload code for either the ATmega2560 or ESP8266EX. All of this is complemented by the inserte nomnbre del shield y specs.
 
