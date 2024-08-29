@@ -62,7 +62,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 
 ![5080268763353427355](https://github.com/user-attachments/assets/10351e4e-c0ce-4e54-90fb-9f68c6334554)
 - **Hex Motor Support Bracket**: A piece that helps fasten the Hex Motor to the Main Chassis structure.
-![Captura de pantalla 2024-08-28 165822](https://github.com/user-attachments/assets/502acad3-09d8-465e-a6b3-565f42a7e9db)
+![Team Violet (3)](https://github.com/user-attachments/assets/d5ca7c77-ba7e-4c99-9dd5-d163b2e5dd29)
 - **Servo Motor Support Bracket**: A piece that helps fasten the Servo Motor to the Main Chassis structure.
 ![arandela](https://github.com/user-attachments/assets/64236518-149f-4973-b0b6-89a039fa6cf2)
 
