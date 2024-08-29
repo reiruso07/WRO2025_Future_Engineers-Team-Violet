@@ -66,7 +66,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 - **Servo Motor Support Bracket**: A piece that helps fasten the Servo Motor to the Main Chassis structure.
 ![Team Violet (4)](https://github.com/user-attachments/assets/38c7aa3a-10ad-4f12-be8e-98bef2fec6b1)
 
-- **HC-SR04 Support Bracket**: Located in the "Bumper" piece, it serves the purpose of supporting the HC-SR04 ultrasonic sensor and allow it to function properly.
+- **HC-SR04 Support Bracket**: Located in the "Bumper" piece, it serves as support for the HC-SR04 ultrasonic sensor, allowing it to function properly.
 ![Team Violet (1)](https://github.com/user-attachments/assets/5ab16a62-822c-422b-ad45-e21efddfad0d)
 - **Bumper**: Used as a extension of the Main Chassis piece, it is used to locate the HC-SR04 sensors a little further ahead so it can detect the walls more easily.
 ![Diseño sin título (2)](https://github.com/user-attachments/assets/e086b3ef-9450-4917-b05d-0d8dfc55d821)
