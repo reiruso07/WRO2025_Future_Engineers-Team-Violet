@@ -19,11 +19,11 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
      - Gray Image with red and green details
      - Color Detection
      - Location Processing and distance from the cones
-     - Data Sending
    - Robot Movement
      - Servomotor setting
      - Lane Determination
      - Robot Orientation
+   - Data Sending
  - Team History
      - 2023 Season
      - Early 2024 Season
