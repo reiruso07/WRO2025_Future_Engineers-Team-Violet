@@ -59,6 +59,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 > All of these pieces are printed in PLA plastic, with a thickness of 0.2mm and a filler level of between 20 to 50% (depends on the piece).
 
 - **Main Chassis**: It's the piece that contains and supports all the components found in the robot.
+- 
 ![Chasis ](https://github.com/user-attachments/assets/4bc21b17-8df1-40f3-ae54-3438c463f794)
 - **Hex Motor Support Bracket**: A piece that helps fasten the Hex Motor to the Main Chassis structure.
 
