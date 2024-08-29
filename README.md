@@ -60,7 +60,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 
 - **Main Chassis**: It's the piece that contains and supports all the components found in the robot.
 
-![Chasis ](https://github.com/user-attachments/assets/4bc21b17-8df1-40f3-ae54-3438c463f794)
+![5080268763353427355](https://github.com/user-attachments/assets/10351e4e-c0ce-4e54-90fb-9f68c6334554)
 - **Hex Motor Support Bracket**: A piece that helps fasten the Hex Motor to the Main Chassis structure.
 ![Captura de pantalla 2024-08-28 165822](https://github.com/user-attachments/assets/502acad3-09d8-465e-a6b3-565f42a7e9db)
 - **Servo Motor Support Bracket**: A piece that helps fasten the Servo Motor to the Main Chassis structure.
