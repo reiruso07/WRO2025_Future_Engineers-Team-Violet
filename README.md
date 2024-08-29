@@ -57,7 +57,7 @@ Firstly, you fixate this piece into the chassis, then the second module tatata, 
 ## Elements
 ### 3D Printed
 > [!NOTE]
-> All of these pieces are printed in nanana plastic, with a filler level of tatata etc.
+> All of these pieces are printed in PLA plastic, with a filler level of tatata etc.
 
 - **Main Chassis**:
 
