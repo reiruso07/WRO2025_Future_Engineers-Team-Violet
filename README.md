@@ -1,5 +1,5 @@
 # Engineering Documentation - Team Violet 
-![f3ea4b6a1b1a032c93fc61f042ce0fb9](https://github.com/user-attachments/assets/d4b777cf-579c-41cd-bcf2-25b11e67dbe0)
+![Team Violet](https://github.com/user-attachments/assets/c6ab8337-cd79-4775-ba30-7e8892cff37c)
 ## Introduction
 In this repository you will find all the information related to the construction and assembly of the autonomous robot built by _Team Violet_ for the Future Engineers category in the 2024 Season.
 This has been an incredible journey with a lot of obstacles, and we have done our best to come up with a design that we were not only satisfied with, but one that could properly acomplish all of the objectives present in this edition of the "Future Engineers" category.
