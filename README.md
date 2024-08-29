@@ -15,7 +15,6 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 - Software Design
    - Image and Color Processing
      - Image Capturing
-     - Image Filter (RGB to HSV)
      - Creating Red and Green masks
      - Gray Image with red and green details
      - Color Detection
@@ -98,8 +97,6 @@ Firstly, you fixate this piece into the chassis, then the second module tatata, 
 # Software Design
 ## Image and Color Processing
 ### Image Capturing
-nan
-### Image Filter (RGB to HSV)
 nan
 ### Creating Red and Green masks
 nan
