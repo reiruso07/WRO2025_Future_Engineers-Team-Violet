@@ -67,7 +67,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 ![arandela](https://github.com/user-attachments/assets/64236518-149f-4973-b0b6-89a039fa6cf2)
 
 - **HC-SR04 Support Bracket**: Located in the "Bumper" piece, it serves the purpose of supporting the HC-SR04 ultrasonic sensor and allow it to function properly.
-
+![Captura de pantalla 2024-08-29 113708](https://github.com/user-attachments/assets/4120944b-b4ad-48b8-8f78-90e1d07b2fef)
 - **Bumper**: Used as a extension of the Main Chassis piece, it is used to locate the HC-SR04 sensors a little further ahead so it can detect the walls more easily.
 
 - **Crossing System**: As it's name says, this part allows to transfer the movement of the servomotor to the front wheels, allowing the robot to change direction.
