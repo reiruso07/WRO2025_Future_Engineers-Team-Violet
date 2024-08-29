@@ -108,8 +108,6 @@ nan
 nan
 ### Location Processing and distance from the cones
 nan
-### Data Sending
-nan
 
 ## Robot Movement
 ### Servomotor setting
@@ -119,6 +117,8 @@ nrue
 ### Robot Orientation
 nrue
 
+## Data Sending
+en el caso de la deteccion de colores tatata, y en el caso del moveset tatata
 
 # Team History
 ## 2023 Season
