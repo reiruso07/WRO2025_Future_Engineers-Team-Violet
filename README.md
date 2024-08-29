@@ -64,11 +64,11 @@ Firstly, you take the 3D Printed Chassis piece, and
 
 - **Servo Motor Support Bracket**: A piece that helps fasten the Servo Motor to the Main Chassis structure.
 
-- **HC-SR04 Support Bracket**: Present in the "Bumper" piece, it serves the purpose of supporting the HC-SR04 ultrasonic sensor and allow it to function efficiently.
+- **HC-SR04 Support Bracket**: Located in the "Bumper" piece, it serves the purpose of supporting the HC-SR04 ultrasonic sensor and allow it to function properly.
 
-- **Bumper**:
+- **Bumper**: Used as a extension of the Main Chassis piece, it is used to locate the HC-SR04 sensors a little further ahead so it can detect the walls more easily.
 
-- **Crossing System**:
+- **Crossing System**: As it's name says, this part allows to transfer the movement of the servomotor to the front wheels, allowing the robot to change direction.
 
 
 ### Electronics
