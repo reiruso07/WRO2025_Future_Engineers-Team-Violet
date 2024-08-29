@@ -32,9 +32,9 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
  - Adrian Alvarez:
 >Hi, my name is Adrian Alvarez, I'm part of Team Violet 1 and I'm responsible for the 3D designs used in the robot. My expectations of this competition are to learn and to test my skills in robotics.
  - Reinaldo Belmonte:
->eee
+>My name is Reinaldo Belmonte. I am part of the Team Violet 1, I am the team's programmer and I'm responsible for the robot's moveset. My expectations for this season is to do my best with this project and, hopefully, end up in the first places.
  - Jose Zambrano:
->ttt
+>My name is Jose Zambrano
 
 
 # Hardware Design
@@ -51,20 +51,20 @@ Another of these changes was the reorganization of its elements, given the chang
 With all these changes made, a 3D design* for the entire structure of the robot was made, thus facilitating its visualization and analysis.
 
 ## Assembly Process
-Firstly, you fixate this piece into the chassis, then the second module tatata, and finally the third module tatata, and you connect up everything
+Firstly, you take the 3D Printed Chassis piece, and 
 
 ## Elements
 ### 3D Printed
 > [!NOTE]
-> All of these pieces are printed in PLA plastic, with a filler level of tatata etc.
+> All of these pieces are printed in PLA plastic, with a thickness of 0.2mm and a filler level of between 20 to 50% (depends on the piece).
 
-- **Main Chassis**:
+- **Main Chassis**: It's the piece that contains and supports all the components found in the robot.
 
-- **Hex Motor Support Bracket**:
+- **Hex Motor Support Bracket**: A piece that helps fasten the Hex Motor to the Main Chassis structure.
 
-- **Servo Motor Support Bracket**:
+- **Servo Motor Support Bracket**: A piece that helps fasten the Servo Motor to the Main Chassis structure.
 
-- **HC-SR04 Support Bracket**
+- **HC-SR04 Support Bracket**: Present in the "Bumper" piece, it serves the purpose of supporting the HC-SR04 ultrasonic sensor and allow it to function efficiently.
 
 - **Bumper**:
 
