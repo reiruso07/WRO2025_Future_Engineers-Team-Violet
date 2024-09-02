@@ -34,7 +34,7 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
  - Reinaldo Belmonte:
 >My name is Reinaldo Belmonte. I am part of the Team Violet 1, I am the team's programmer and I'm responsible for the robot's moveset. My expectations for this season is to do my best with this project and, hopefully, end up in the first places.
  - Jose Zambrano:
->My name is Jose Zambrano
+>I am José Miguel Zambrano, the team's mechanic, I am in charge of the robot's assembly and its proper maintenance. For this season I hope, alongside my team, to deliver a project that meets the expectations, in addition to representing my institution and my country.
 
 
 # Hardware Design
