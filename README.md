@@ -107,7 +107,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 > [!IMPORTANT]
 >- Specifications
 >- Weight: 2.05 oz.
->- Speed: 0.14 s/60° (at 6V) - Note this speed is slightly higher for current inventory than previously stated (.14s/60°  vs the .13/60°)
+>- Speed: 0.14 s/60° (at 6V)
 >- Stall Torque: 13.5 kg-cm / 187.8 oz-in (at 6V)
 >- Stall Current: 2A (at 6V)
 >- Voltage Rating: 4.8V – 7.4V, 6V nominal
