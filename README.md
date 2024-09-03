@@ -80,6 +80,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 ### Electronics
   -  L298N: Used to control the Hex Motor and the Servo motor.
 > [!IMPORTANT]
+> Specifications
 >- Channels: 2 (supports 2 DC motors or 1 PAP motor)
 >- Logic voltage: 5V.
 >- Operating Voltage: 5V-35V.
@@ -90,7 +91,21 @@ Firstly, you take the 3D Printed Chassis piece, and
     
   -   Motors: The rear wheel drive motor provides the forward or backward motion of the robot, while the turning motor rotates the front wheels to change the orientation of the robot. By combining these two motions, the robot can move in any direction on a flat surface.
    
-  -   Hex Motor: The robot uses 1 REV Robotics Hex Motor for the rear wheel drive, located on the lower module of the robot.
+  -   Hex Motor: Located in the lower module of the robot, this motor serves a rear wheel drive for the robot, providing the foward or backward motion of the robot.
+
+  -   Smart Robot Servo: Located alongside the Hex Motor, it gives the robot the ability to rotate the front wheels, changing the orientation of the robot, thus allowing the robot to move freely in any direction on a flat surface.
+> [!IMPORTANT]
+>Specifications
+>- Output Shaft: 5mm Female Hex
+>- Weight: 7 oz
+>- Voltage: 12V DC
+>- Free Speed: 125 RPM
+>- Stall Torque: 3.2 N-m
+>- Stall Current: 4.4 A
+>- Gear Ratio: 72:1
+>- Encoder Counts per Revolution
+>- At the motor - 4 counts/revolution
+>- At the output - 288 counts/revolution
 
   -   Arduino Mega 2560 Wifi R3 + Arduino Custom Shield: The MEGA2560 Wifi is a variant that includes an ESP8266 Wifi chip. The microcontroller is still an Atmel ATmega2560 compatible with Arduino and also has an ESP8266EX all on the same board, the serial-USB converter is a CH340G and through a DIP switch it allows you to configure the board to work independently of the MCU, enable the CH340 to upload code for either the ATmega2560 or ESP8266EX. All of this is complemented by the inserte nomnbre del shield y specs.
 
