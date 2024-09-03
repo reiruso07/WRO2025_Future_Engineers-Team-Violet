@@ -149,14 +149,14 @@ nan
 
 ## Robot Movement
 ### Servomotor setting
-nrue
+The moveset of the Servomotor is define by the distance given by the ultrasonic sensors 
+depending on whether the wall is close, far away or in a corner
 ### Lane Determination
-nrue
-### Robot Orientation
-nrue
+The determination of the lane is define by the first corner, if the corner is of the rigth side it means that the direction is clockwise and 
+vice versa
 
 ## Data Sending
-en el caso de la deteccion de colores tatata, y en el caso del moveset tatata
+In this case we send the information via monitor serial with the library Serial with the function ser.write
 
 # Team History
 ## 2023 Season
