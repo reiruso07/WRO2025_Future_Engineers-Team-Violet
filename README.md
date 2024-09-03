@@ -80,13 +80,13 @@ Firstly, you take the 3D Printed Chassis piece, and
 ### Electronics
   -  L298N: Used to control the Hex Motor and the Servo motor.
 > [!IMPORTANT]
->-Channels: 2 (supports 2 DC motors or 1 PAP motor)
->-Logic voltage: 5V.
->-Operating Voltage: 5V-35V.
->-Current consumption (Digital): 0 to 36mA.
->-Current capacity: 2A (peaks up to 3A).
->-Maximum power: 25W.
->-Weight: 30g.
+>- Channels: 2 (supports 2 DC motors or 1 PAP motor)
+>- Logic voltage: 5V.
+>- Operating Voltage: 5V-35V.
+>- Current consumption (Digital): 0 to 36mA.
+>- Current capacity: 2A (peaks up to 3A).
+>- Maximum power: 25W.
+>- Weight: 30g.
     
   -   Motors: The rear wheel drive motor provides the forward or backward motion of the robot, while the turning motor rotates the front wheels to change the orientation of the robot. By combining these two motions, the robot can move in any direction on a flat surface.
    
