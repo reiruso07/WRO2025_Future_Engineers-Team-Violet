@@ -92,8 +92,6 @@ Firstly, you take the 3D Printed Chassis piece, and
   -   Motors: The rear wheel drive motor provides the forward or backward motion of the robot, while the turning motor rotates the front wheels to change the orientation of the robot. By combining these two motions, the robot can move in any direction on a flat surface.
    
   -   Hex Motor: Located in the lower module of the robot, this motor serves a rear wheel drive for the robot, providing the foward or backward motion of the robot.
-
-  -   Smart Robot Servo: Located alongside the Hex Motor, it gives the robot the ability to rotate the front wheels, changing the orientation of the robot, thus allowing the robot to move freely in any direction on a flat surface.
 > [!IMPORTANT]
 >Specifications
 >- Output Shaft: 5mm Female Hex
@@ -106,6 +104,22 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Encoder Counts per Revolution
 >- At the motor - 4 counts/revolution
 >- At the output - 288 counts/revolution
+
+  -   Smart Robot Servo: Located alongside the Hex Motor, it gives the robot the ability to rotate the front wheels, changing the orientation of the robot, thus allowing the robot to move freely in any direction on a flat surface.
+> [!IMPORTANT]
+>- Specifications
+>- Weight: 2.05 oz.
+>- Speed: 0.14 s/60° (at 6V) - Note this speed is slightly higher for current inventory than previously stated (.14s/60°  vs the .13/60°)
+>- Stall Torque: 13.5 kg-cm / 187.8 oz-in (at 6V)
+>- Stall Current: 2A (at 6V)
+>- Voltage Rating: 4.8V – 7.4V, 6V nominal
+>- Input Pulse Range: 500μs – 2500μs
+>- Default Angular Range: 270°
+>- Maximum programmable range in angular mode - 280°
+>- Gear Material: Metal
+>- Spline type – 25T
+>- Spline Internal Thread Size: M3
+>- Spline Internal Thread Depth: 6mm
 
   -   Arduino Mega 2560 Wifi R3 + Arduino Custom Shield: The MEGA2560 Wifi is a variant that includes an ESP8266 Wifi chip. The microcontroller is still an Atmel ATmega2560 compatible with Arduino and also has an ESP8266EX all on the same board, the serial-USB converter is a CH340G and through a DIP switch it allows you to configure the board to work independently of the MCU, enable the CH340 to upload code for either the ATmega2560 or ESP8266EX. All of this is complemented by the inserte nomnbre del shield y specs.
 
