@@ -78,23 +78,20 @@ Firstly, you take the 3D Printed Chassis piece, and
 ![Team Violet (2)](https://github.com/user-attachments/assets/ad017619-b545-498f-b5d1-4f590f547603)
 
 ### Electronics
-  -  L298N: The L298N Motor Driver Module is a potent module designed to operate DC and Stepper Motors. It is composed of an L298 motor driver integrated circuit and a 78M05 5V regulator. The L298N Module has the capacity to manage up to 4 DC motors, or it can control 2 DC motors with the ability to adjust direction and speed.
-    
-  -   Motors: The robot has 1 direct current (DC) motor and 1 SG90 servomotor that allow it to move in different directions. Meanwhile the DC motor serves as rear wheel drive, the servomotor gives it the ability to turn left or right. The rear wheel drive motor provides the forward or backward motion of the robot, while the turning motor rotates the front wheels to change the orientation of the robot. By combining these two motions, the robot can move in any direction on a flat surface. These motors feature a torque of 35 grams*centimeter, a minimum speed of 0.22m/s and a speed limit of 0.71m/s (NOTE: this is the minimum speed the car can go, the minimum speed for the motor itself is even lower.)
-
-  -   Hex Motor: The robot uses 1 REV Robotics Hex Motor for the rear wheel drive, located on the lower module of the robot.
+  -  L298N: Used to control the Hex Motor and the Servo motor.
 > [!IMPORTANT]
-> Specifications
->- Output Shaft: 5mm Female Hex
->- Weight: 7 oz
->- Voltage: 12V DC
->- Free Speed: 125 RPM
->- Stall Torque: 3.2 N-m
->- Stall Current: 4.4 A
->- Gear Ratio: 72:1
->- Encoder Counts per Revolution
->- At the motor - 4 counts/revolution
->- At the output - 288 counts/revolution.
+>Key information users need to know to achieve their goal.
+>Channels: 2 (supports 2 DC motors or 1 PAP motor)
+>Logic voltage: 5V.
+>Operating Voltage: 5V-35V.
+>Current consumption (Digital): 0 to 36mA.
+>Current capacity: 2A (peaks up to 3A).
+>Maximum power: 25W.
+>Weight: 30g.
+    
+  -   Motors: The rear wheel drive motor provides the forward or backward motion of the robot, while the turning motor rotates the front wheels to change the orientation of the robot. By combining these two motions, the robot can move in any direction on a flat surface.
+   
+  -   Hex Motor: The robot uses 1 REV Robotics Hex Motor for the rear wheel drive, located on the lower module of the robot.
 
   -   Arduino Mega 2560 Wifi R3 + Arduino Custom Shield: The MEGA2560 Wifi is a variant that includes an ESP8266 Wifi chip. The microcontroller is still an Atmel ATmega2560 compatible with Arduino and also has an ESP8266EX all on the same board, the serial-USB converter is a CH340G and through a DIP switch it allows you to configure the board to work independently of the MCU, enable the CH340 to upload code for either the ATmega2560 or ESP8266EX. All of this is complemented by the inserte nomnbre del shield y specs.
 
@@ -104,7 +101,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 
    -   TCS230 Color Sensor: The TCS230 is a programmable color light-to-frequency converter that merges adjustable silicon photodiodes and a current-to-frequency converter into a single CMOS integrated circuit. It produces a square wave output where the frequency is directly related to the intensity of light.
   
-   -   Camera: The robot uses an Argom Tech 720p Cam20 Webcam.
+   -   Camera: The robot uses an 
    
    -   3.7V 18650 Lithium Batteries: These batteries are rechargeable and have a capacity of between 2600 mAh and 3500 mAh (ours have 3500 mAh each). The batteries have a nominal voltage of 3.7V and a maximum voltage of 4.2V. The batteries are connected to the robot through a battery holder that has an on/off switch. The batteries can be charged with a special charger that has a protection circuit against overloads and short circuits.
 
