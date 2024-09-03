@@ -81,7 +81,8 @@ Firstly, you take the 3D Printed Chassis piece, and
   -  **L298N**: Used to control the Hex Motor and the Servo motor.
 > [!IMPORTANT]
 > Specifications
->- Channels: 2 (supports 2 DC motors or 1 PAP motor)  - Logic voltage: 5V.
+>- Channels: 2 (supports 2 DC motors or 1 PAP motor)
+>- Logic voltage: 5V.
 >- Operating Voltage: 5V-35V.
 >- Current consumption (Digital): 0 to 36mA.
 >- Current capacity: 2A (peaks up to 3A).
