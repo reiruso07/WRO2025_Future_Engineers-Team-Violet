@@ -78,7 +78,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 ![Team Violet (2)](https://github.com/user-attachments/assets/ad017619-b545-498f-b5d1-4f590f547603)
 
 ### Electronics
-  -  L298N: Used to control the Hex Motor and the Servo motor.
+  -  **L298N**: Used to control the Hex Motor and the Servo motor.
 > [!IMPORTANT]
 > Specifications
 >- Channels: 2 (supports 2 DC motors or 1 PAP motor)
@@ -88,10 +88,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Current capacity: 2A (peaks up to 3A).
 >- Maximum power: 25W.
 >- Weight: 30g.
-    
-  -   Motors: The rear wheel drive motor provides the forward or backward motion of the robot, while the turning motor rotates the front wheels to change the orientation of the robot. By combining these two motions, the robot can move in any direction on a flat surface.
    
-  -   Hex Motor: Located in the lower module of the robot, this motor serves a rear wheel drive for the robot, providing the foward or backward motion of the robot.
+  -   **Hex Motor**: Located in the lower module of the robot, this motor serves a rear wheel drive for the robot, providing the foward or backward motion of the robot.
 > [!IMPORTANT]
 >Specifications
 >- Output Shaft: 5mm Female Hex
@@ -105,7 +103,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- At the motor - 4 counts/revolution
 >- At the output - 288 counts/revolution
 
-  -   Smart Robot Servo: Located alongside the Hex Motor, it gives the robot the ability to rotate the front wheels, changing the orientation of the robot, thus allowing the robot to move freely in any direction on a flat surface.
+  -   **Smart Robot Servo**: Located alongside the Hex Motor, it gives the robot the ability to rotate the front wheels, changing the orientation of the robot, thus allowing the robot to move freely in any direction on a flat surface.
 > [!IMPORTANT]
 >- Specifications
 >- Weight: 2.05 oz.
