@@ -78,7 +78,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 ![Team Violet (2)](https://github.com/user-attachments/assets/ad017619-b545-498f-b5d1-4f590f547603)
 
 ### Electronics
-  -  **L298N**: Used to control the Hex Motor and the Smart Robot Servo.
+  -  **L298N**: Located in the middle module, it is used to control the Hex Motor and the Smart Robot Servo.
 
 ![Team Violet (5)](https://github.com/user-attachments/assets/01d761ca-a524-4702-8539-821d6a561465)
 > [!IMPORTANT]
@@ -104,8 +104,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Stall Current: 4.4 A
 >- Gear Ratio: 72:1
 >- Encoder Counts per Revolution
->- At the motor - 4 counts/revolution
->- At the output - 288 counts/revolution
+>- At the motor: 4 counts/revolution
+>- At the output: 288 counts/revolution
 
   -   **Smart Robot Servo**: Located alongside the Hex Motor, it gives the robot the ability to rotate the front wheels, changing the orientation of the robot, thus allowing the robot to move freely in any direction on a flat surface.
 > [!IMPORTANT]
@@ -123,7 +123,9 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Spline Internal Thread Size: M3
 >- Spline Internal Thread Depth: 6mm
 
-  -   **Arduino Mega 2560 Wifi R3**: The MEGA2560 Wifi is a variant of the Arduino programmable board* that includes an ESP8266 Wifi chip. It is used to manage the robot's mobility alongside the L298N Motor Controller, thus allowing the robot to move freely on a flat surface.
+  -   **Arduino Mega 2560 Wifi R3**: The MEGA2560 Wifi is a variant of the Arduino programmable board* that includes an ESP8266 Wifi chip. Located in the middle module, it is used to manage the robot's mobility alongside the L298N Motor Controller, thus allowing the robot to move freely on a flat surface.
+
+![Team Violet (7)](https://github.com/user-attachments/assets/226f95b5-a6c6-4f5d-a20c-e399cd8f5db2)
 > [!IMPORTANT]
 >- Microcontroller: ATmega2560
 >- Input voltage: 7-12V.
@@ -132,7 +134,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- 256k flash memory.
 >- 16Mhz clock speed.
 
-  -   **Raspberry Pi 4**: The Raspberry Pi 4 is a single-board development board used for entry-level computing. It has the purpose of managing the "Color Processing" section, thus allowing the robot to recognize colors next to them and use this information advantegiously.
+  -   **Raspberry Pi 4**: The Raspberry Pi 4 is a single-board development board used for entry-level computing. It is located in the upper module and it has the purpose of managing the "Color Processing" section, thus allowing the robot to recognize colors next to them and use this information advantegiously.
 > [!IMPORTANT]
 >- Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.8GHz
 >- 4GB LPDDR4-3200 SDRAM (depending on model)
@@ -146,7 +148,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- 5V DC via GPIO header (minimum 3A*)
 >- Operating temperature: 0 – 50 degrees C ambient
 
-   -   **Ultrasonic Sensor**: The robot has 3 HC-SR04 ultrasonic sensors on the left, right and front that function as a sonar. They are used to provide orientation to the robot when moving in any environment, allowing it to detect obstacles or adjacent walls.
+   -   **Ultrasonic Sensor**: The robot has 3 HC-SR04 ultrasonic sensors on the left, right and front of the "Bumper" piece, located in the middle module. They are used to provide orientation to the robot when moving in any environment, allowing it to detect obstacles or adjacent walls.
 > [!IMPORTANT]
 >- Supply voltage: 5 Vcc
 >- Working frequency: 40 KHz
