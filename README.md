@@ -136,7 +136,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- 256k flash memory.
 >- 16Mhz clock speed.
 
-  -   **Raspberry Pi 4**: The Raspberry Pi 4 is a single-board development board used for entry-level computing. It is located in the upper module and it has the purpose of managing the "Color Processing" section, thus allowing the robot to recognize colors next to them and use this information advantegiously.
+  -   **Raspberry Pi 4**: The Raspberry Pi 4 is a single-board development board used for entry-level computing. It is located in the upper module and it has the purpose of managing the "Color Processing" section, thus allowing the robot to recognize adjacent colors and use this information advantegiously.
 
 ![Team Violet (9)](https://github.com/user-attachments/assets/28543380-10c2-4cb2-a976-c821c2f7005b)
 > [!IMPORTANT]
