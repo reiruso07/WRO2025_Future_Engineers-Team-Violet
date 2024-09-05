@@ -188,10 +188,10 @@ nan
 
 ## Robot Movement
 ### Smart Robot Servo configuration
-The Smart Robot Servo is set on Pin 7 of the Arduino Mega and is configured with _Servo.write_ function. The moveset of the Smart Robot Servo is defined by the distance given by the HC-SR04 sensors depending on whether the wall is near, far away or in a corner.
+The Smart Robot Servo is set on Pin 7 of the Arduino Mega and is configured with _Servo.write_ function. The moveset of the Smart Robot Servo is defined by the distance given by the HC-SR04 sensors depending on whether the walls are near, far away or in a corner.
 ### Robot Orientation
 The orientation of the robot is defined by the first corner, if the corner is of the rigth side it means that the direction is clockwise and 
-vice versa
+vice versa.
 ### Route Determination
 The determination of the routes is based on the color of the cone next to the robot. If the python code detects a color this information will be sent to the arduino and transformed into a left or right turn depending on the detected color.
 
