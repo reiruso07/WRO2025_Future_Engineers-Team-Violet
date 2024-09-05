@@ -113,13 +113,13 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Voltage Rating: 4.8V – 7.4V, 6V nominal
 >- Input Pulse Range: 500μs – 2500μs
 >- Default Angular Range: 270°
->- Maximum programmable range in angular mode - 280°
+>- Maximum programmable range in angular mode: 280°
 >- Gear Material: Metal
->- Spline type – 25T
+>- Spline type: 25T
 >- Spline Internal Thread Size: M3
 >- Spline Internal Thread Depth: 6mm
 
-  -   Arduino Mega 2560 Wifi R3 + Arduino Custom Shield: The MEGA2560 Wifi is a variant that includes an ESP8266 Wifi chip. The microcontroller is still an Atmel ATmega2560 compatible with Arduino and also has an ESP8266EX all on the same board, the serial-USB converter is a CH340G and through a DIP switch it allows you to configure the board to work independently of the MCU, enable the CH340 to upload code for either the ATmega2560 or ESP8266EX. All of this is complemented by the inserte nomnbre del shield y specs.
+  -   Arduino Mega 2560 Wifi R3: The MEGA2560 Wifi is a variant of the Arduino programmable board* that includes an ESP8266 Wifi chip. It is used to manage the robot's mobility alongside the L298N Motor Controller, thus allowing the robot to move freely on a flat surface.
 > [!IMPORTANT]
 >- Microcontroller: ATmega2560
 >- Input voltage: 7-12V.
@@ -128,7 +128,19 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- 256k flash memory.
 >- 16Mhz clock speed.
 
-  -   Raspberry Pi 4: The Raspberry Pi 4 is a single-board development board used for entry-level computing, being released the latest version (Raspberry Pi 4) in June 2019. The board is available in four RAM variants: 1 GB, 2 GB, 4 GB, and 8 GB. Model B (the one we are using) is the most common and comes with a Broadcom BCM2711 processor, which is a 1.5GHz quad-core ARM Cortex-A72 processor. Additionally, it has enhanced USB capability with two USB 2.0 ports and two USB 3.0 ports, enabling up to ten times faster data transfers. It also comes with Gigabit Ethernet connectivity, built-in wireless and Bluetooth.
+  -   Raspberry Pi 4: The Raspberry Pi 4 is a single-board development board used for entry-level computing. It has the purpose of managing the "Color Processing" section, thus allowing the robot to recognize colors next to them and use this information advantegiously.
+> [!IMPORTANT]
+>- Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.8GHz
+>- 4GB LPDDR4-3200 SDRAM (depending on model)
+>- 2.4 GHz and 5.0 GHz IEEE 802.11ac wireless, Bluetooth 5.0, BLE
+>- Gigabit Ethernet
+>- 2 USB 3.0 ports; 2 USB 2.0 ports.
+>- 2 × micro-HDMI® ports (up to 4kp60 supported)
+>- OpenGL ES 3.1, Vulkan 1.0
+>- Micro-SD card slot for loading operating system and data storage
+>- 5V DC via USB-C connector (minimum 3A*)
+>- 5V DC via GPIO header (minimum 3A*)
+>- Operating temperature: 0 – 50 degrees C ambient
 
    -   Ultrasonic Sensor: The robot has 3 HC-SR04 ultrasonic sensors on the left, right and front that function as a sonar, on the left, right and front. The HC-SR04 sensor has two transducers: a piezoelectric transmitter and receiver, in addition to the electronics necessary for its operation. The operation of the sensor is as follows: the piezoelectric transmitter emits 8 ultrasonic pulses (40KHz) after receiving the order on the TRIG pin, the sound waves travel in the air and bounce when meeting an object, the bounce sound is detected by the piezoelectric receiver, then the ECHO pin changes to High (5V) for a time equal to the time the wave took from when it was emitted to when it was detected, the time of the ECHO pulse is measured by the microcontroller and thus the distance can be calculated to the object. Sensor performance is not affected by sunlight or black-colored material (although acoustically soft materials such as cloth or wool can be difficult to detect). All of this in a range of 2 to 450 cm.
 
