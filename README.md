@@ -20,9 +20,9 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
      - Color Detection
      - Location Processing and distance from the cones
    - Robot Movement
-     - Servomotor setting
-     - Lane Determination
+     - Smart Robot Servo configuration
      - Robot Orientation
+     - Route Determination
    - Data Sending
  - Team History
      - 2023 Season
@@ -200,7 +200,9 @@ The information processed in the Raspberry Pi is sent to the Arduino Mega throug
 
 # Team History
 ## 2023 Season
-tatatta
+This was the first season we took the challenge of the Future Engineers category, and it came with a lot of obstacles. The main issue was time; since we were also participating on _Copa Ka'i 2023_, it was a problem to get the time needed to really develop and perfect the design. 
+
+
 ## Early 2024 Season
 tatatata
 
