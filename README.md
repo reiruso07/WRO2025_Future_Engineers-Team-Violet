@@ -119,7 +119,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Spline Internal Thread Size: M3
 >- Spline Internal Thread Depth: 6mm
 
-  -   Arduino Mega 2560 Wifi R3: The MEGA2560 Wifi is a variant of the Arduino programmable board* that includes an ESP8266 Wifi chip. It is used to manage the robot's mobility alongside the L298N Motor Controller, thus allowing the robot to move freely on a flat surface.
+  -   **Arduino Mega 2560 Wifi R3**: The MEGA2560 Wifi is a variant of the Arduino programmable board* that includes an ESP8266 Wifi chip. It is used to manage the robot's mobility alongside the L298N Motor Controller, thus allowing the robot to move freely on a flat surface.
 > [!IMPORTANT]
 >- Microcontroller: ATmega2560
 >- Input voltage: 7-12V.
@@ -128,7 +128,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- 256k flash memory.
 >- 16Mhz clock speed.
 
-  -   Raspberry Pi 4: The Raspberry Pi 4 is a single-board development board used for entry-level computing. It has the purpose of managing the "Color Processing" section, thus allowing the robot to recognize colors next to them and use this information advantegiously.
+  -   **Raspberry Pi 4**: The Raspberry Pi 4 is a single-board development board used for entry-level computing. It has the purpose of managing the "Color Processing" section, thus allowing the robot to recognize colors next to them and use this information advantegiously.
 > [!IMPORTANT]
 >- Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.8GHz
 >- 4GB LPDDR4-3200 SDRAM (depending on model)
@@ -142,13 +142,19 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- 5V DC via GPIO header (minimum 3A*)
 >- Operating temperature: 0 – 50 degrees C ambient
 
-   -   Ultrasonic Sensor: The robot has 3 HC-SR04 ultrasonic sensors on the left, right and front that function as a sonar, on the left, right and front. The HC-SR04 sensor has two transducers: a piezoelectric transmitter and receiver, in addition to the electronics necessary for its operation. The operation of the sensor is as follows: the piezoelectric transmitter emits 8 ultrasonic pulses (40KHz) after receiving the order on the TRIG pin, the sound waves travel in the air and bounce when meeting an object, the bounce sound is detected by the piezoelectric receiver, then the ECHO pin changes to High (5V) for a time equal to the time the wave took from when it was emitted to when it was detected, the time of the ECHO pulse is measured by the microcontroller and thus the distance can be calculated to the object. Sensor performance is not affected by sunlight or black-colored material (although acoustically soft materials such as cloth or wool can be difficult to detect). All of this in a range of 2 to 450 cm.
-
-   -   TCS230 Color Sensor: The TCS230 is a programmable color light-to-frequency converter that merges adjustable silicon photodiodes and a current-to-frequency converter into a single CMOS integrated circuit. It produces a square wave output where the frequency is directly related to the intensity of light.
+   -   **Ultrasonic Sensor**: The robot has 3 HC-SR04 ultrasonic sensors on the left, right and front that function as a sonar. They are used to provide orientation to the robot when moving in any environment, allowing it to detect obstacles or adjacent walls.
+> [!IMPORTANT]
+>- Supply voltage: 5 Vcc
+>- Working frequency: 40 KHz
+>- Maximum range: 4.5 m
+>- Minimum range: 2.0 cm
+>- Minimum trigger pulse duration (TTL level): 10 μS.
+>- Duration of the output echo pulse (TTL level): 100-25000 μS.
+>- Minimum waiting time between one measurement and the start of another 20 mS.
   
    -   Camera: The robot uses an 
    
-   -   3.7V 18650 Lithium Batteries: These batteries are rechargeable and have a capacity of between 2600 mAh and 3500 mAh (ours have 3500 mAh each). The batteries have a nominal voltage of 3.7V and a maximum voltage of 4.2V. The batteries are connected to the robot through a battery holder that has an on/off switch. The batteries can be charged with a special charger that has a protection circuit against overloads and short circuits.
+   -   3.7V 18650 Lithium Batteries: Used to provide power to the Hex Motor and Smart Robot Servo on the lower module, this batteries 
 
    -   Power Bank: We use a ONN ONA18WIO63 Power Bank to supply Raspberry Pi and the Arduino Mega with energy. It has 1 USB ports, along with a Micro-USB port for charging, with an output voltage of 5V and 2.4A.
 
