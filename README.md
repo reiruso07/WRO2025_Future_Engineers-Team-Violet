@@ -108,6 +108,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- At the output: 288 counts/revolution
 
   -   **Smart Robot Servo**: Located alongside the Hex Motor, it gives the robot the ability to rotate the front wheels, changing the orientation of the robot, thus allowing the robot to move freely in any direction on a flat surface.
+
+![Team Violet (8)](https://github.com/user-attachments/assets/1c37fbf0-e2ab-433c-b394-c836614daca8)
 > [!IMPORTANT]
 >- Specifications
 >- Weight: 2.05 oz.
@@ -135,6 +137,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- 16Mhz clock speed.
 
   -   **Raspberry Pi 4**: The Raspberry Pi 4 is a single-board development board used for entry-level computing. It is located in the upper module and it has the purpose of managing the "Color Processing" section, thus allowing the robot to recognize colors next to them and use this information advantegiously.
+
+
 > [!IMPORTANT]
 >- Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.8GHz
 >- 4GB LPDDR4-3200 SDRAM (depending on model)
