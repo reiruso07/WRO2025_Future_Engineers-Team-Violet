@@ -78,7 +78,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 ![Team Violet (2)](https://github.com/user-attachments/assets/ad017619-b545-498f-b5d1-4f590f547603)
 
 ### Electronics
-  -  **L298N**: Located in the middle module, it is used to control the Hex Motor and the Smart Robot Servo.
+  -  **L298N Motor Driver**: Located in the middle module, it is used to control the Hex Motor and the Smart Robot Servo.
 
 ![Team Violet (5)](https://github.com/user-attachments/assets/01d761ca-a524-4702-8539-821d6a561465)
 > [!IMPORTANT]
@@ -125,7 +125,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Spline Internal Thread Size: M3
 >- Spline Internal Thread Depth: 6mm
 
-  -   **Arduino Mega 2560 Wifi R3**: The MEGA2560 Wifi is a variant of the Arduino programmable board* that includes an ESP8266 Wifi chip. Located in the middle module, it is used to manage the robot's mobility alongside the L298N Motor Controller, thus allowing the robot to move freely on a flat surface.
+  -   **Arduino Mega 2560 Wifi R3**: The MEGA2560 Wifi is a variant of the Arduino programmable board* that includes an ESP8266 Wifi chip. Located in the middle module, it is used to manage the robot's mobility alongside the L298N Motor Driver, thus allowing the robot to move freely on a flat surface.
 
 ![Team Violet (7)](https://github.com/user-attachments/assets/226f95b5-a6c6-4f5d-a20c-e399cd8f5db2)
 > [!IMPORTANT]
