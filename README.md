@@ -196,7 +196,7 @@ vice versa.
 The determination of the routes is based on the color of the cone next to the robot. If the python code detects a color this information will be sent to the arduino and transformed into a left or right turn depending on the detected color.
 
 ## Data Sending
-The information is sent to both partitions of the code (Arduino Mega/Raspberry Pi) through the serial monitor with the serial library, using the _Ser.write_ function.
+The information processed in the Raspberry Pi is sent to the Arduino Mega through the serial monitor with the serial library, using the _Ser.write_ function.
 
 # Team History
 ## 2023 Season
