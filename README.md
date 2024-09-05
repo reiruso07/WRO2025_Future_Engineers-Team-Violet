@@ -187,8 +187,8 @@ nan
 nan
 
 ## Robot Movement
-### Servomotor setting
-The moveset of the Servomotor is define by the distance given by the ultrasonic sensors 
+### Smart Robot Servo configuration
+The Smart Robot Servo is set on Pin 7 of the Arduino Mega. The moveset of the Servomotor is defined by the distance given by the ultrasonic sensors 
 depending on whether the wall is close, far away or in a corner
 ### Lane Determination
 The determination of the lane is define by the first corner, if the corner is of the rigth side it means that the direction is clockwise and 
