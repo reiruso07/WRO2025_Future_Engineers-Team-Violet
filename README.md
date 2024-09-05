@@ -79,6 +79,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 
 ### Electronics
   -  **L298N**: Used to control the Hex Motor and the Smart Robot Servo.
+
 ![Team Violet (5)](https://github.com/user-attachments/assets/01d761ca-a524-4702-8539-821d6a561465)
 > [!IMPORTANT]
 > Specifications
