@@ -64,7 +64,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 - **Hex Motor Support Bracket**: A piece that helps fasten the Hex Motor to the Main Chassis structure.
   
 ![Team Violet (3)](https://github.com/user-attachments/assets/d5ca7c77-ba7e-4c99-9dd5-d163b2e5dd29)
-- **Servo Motor Support Bracket**: A piece that helps fasten the Servo Motor to the Main Chassis structure.
+- **Smart Robot Servo Support Bracket**: A piece that helps fasten the Servo Motor to the Main Chassis structure.
 
 ![Team Violet (4)](https://github.com/user-attachments/assets/38c7aa3a-10ad-4f12-be8e-98bef2fec6b1)
 - **HC-SR04 Support Bracket**: Located in the "Bumper" piece, it serves as support for the HC-SR04 ultrasonic sensor, allowing it to function properly.
@@ -78,7 +78,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 ![Team Violet (2)](https://github.com/user-attachments/assets/ad017619-b545-498f-b5d1-4f590f547603)
 
 ### Electronics
-  -  **L298N**: Used to control the Hex Motor and the Servo motor.
+  -  **L298N**: Used to control the Hex Motor and the Smart Robot Servo.
 > [!IMPORTANT]
 > Specifications
 >- Channels: 2 (supports 2 DC motors or 1 PAP motor)
