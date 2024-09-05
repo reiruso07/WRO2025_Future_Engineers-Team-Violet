@@ -120,6 +120,13 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Spline Internal Thread Depth: 6mm
 
   -   Arduino Mega 2560 Wifi R3 + Arduino Custom Shield: The MEGA2560 Wifi is a variant that includes an ESP8266 Wifi chip. The microcontroller is still an Atmel ATmega2560 compatible with Arduino and also has an ESP8266EX all on the same board, the serial-USB converter is a CH340G and through a DIP switch it allows you to configure the board to work independently of the MCU, enable the CH340 to upload code for either the ATmega2560 or ESP8266EX. All of this is complemented by the inserte nomnbre del shield y specs.
+> [!IMPORTANT]
+>- Microcontroller: ATmega2560
+>- Input voltage: 7-12V.
+>- 54 digital Input/Output pins (14 of them are PWM outputs).
+>- 16 analog inputs.
+>- 256k flash memory.
+>- 16Mhz clock speed.
 
   -   Raspberry Pi 4: The Raspberry Pi 4 is a single-board development board used for entry-level computing, being released the latest version (Raspberry Pi 4) in June 2019. The board is available in four RAM variants: 1 GB, 2 GB, 4 GB, and 8 GB. Model B (the one we are using) is the most common and comes with a Broadcom BCM2711 processor, which is a 1.5GHz quad-core ARM Cortex-A72 processor. Additionally, it has enhanced USB capability with two USB 2.0 ports and two USB 3.0 ports, enabling up to ten times faster data transfers. It also comes with Gigabit Ethernet connectivity, built-in wireless and Bluetooth.
 
