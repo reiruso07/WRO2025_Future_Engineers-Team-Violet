@@ -154,9 +154,9 @@ Firstly, you take the 3D Printed Chassis piece, and
   
    -   Camera: The robot uses an 
    
-   -   3.7V 18650 Lithium Batteries: Used to provide power to the Hex Motor and Smart Robot Servo on the lower module, this batteries 
+   -   **3.7V 18650 Lithium Batteries**: Used to provide power to the Hex Motor and Smart Robot Servo on the lower module, this batteries have a nominal voltage of 3.7V and a maximum voltage of 4.2V and a capacity of 3500 mAh each.
 
-   -   Power Bank: We use a ONN ONA18WIO63 Power Bank to supply Raspberry Pi and the Arduino Mega with energy. It has 1 USB ports, along with a Micro-USB port for charging, with an output voltage of 5V and 2.4A.
+   -   : We use a ONN ONA18WIO63 Power Bank to supply Raspberry Pi and the Arduino Mega with energy. It has 1 USB ports, along with a Micro-USB port for charging, with an output voltage of 5V and 2.4A.
 
 
 # Software Design
