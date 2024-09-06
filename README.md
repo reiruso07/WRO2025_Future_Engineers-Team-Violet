@@ -60,7 +60,7 @@ Another of these changes was the reorganization of its elements, given the chang
 
 The final design of the robot is intended as a modular design, consisting of 3 modules: lower «traction» module, middle «sensor processing» module, and upper «power supply and color processing» module. This makes it easier to make repairs on any of the modules or to replace or rearrange parts.
 
-![18](https://github.com/user-attachments/assets/5e4f2eba-f1bb-4dc9-9a03-35eb9aef169a)
+![image](https://github.com/user-attachments/assets/d1e977a4-3c6f-47d1-8bdc-23a5092dba35)
 
 With all these changes made, a 3D design* for the entire structure of the robot was made, thus facilitating its visualization and analysis.
 
