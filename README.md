@@ -48,7 +48,7 @@ One of these changes was the replacement of the traditional DC motor that we use
 
 As a result, the wheels used for the rear-wheel drive had to be also replaced, since the old ones couldn't adapt to the torque provided by the Hex Motor. This way we could take advantage of all the potential the Hex Motor had to offer.
 
-![Team Violet (13)](https://github.com/user-attachments/assets/06338840-29e7-468b-960b-919555463853)
+![image](https://github.com/user-attachments/assets/16358f55-f756-4886-b3aa-1068523e75e9)
 
 Alongside the rear-wheel drive, we also made changes to the turning system, replacing the old Servomotor with a «Smart Robot Servo» , allowing for better and more precise turns when meeting a corner.
 
