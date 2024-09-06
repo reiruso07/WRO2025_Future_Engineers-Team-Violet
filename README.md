@@ -56,8 +56,7 @@ Alongside the rear-wheel drive, we also made changes to the turning system, repl
 
 Another of these changes was the reorganization of its elements, given the changes in the motors used and the space they now occupied, we made a redistribution to most of the elements present in the robot, this time taking into account to make it even more accessible for repairs or adjustments to any of its parts.
 
-![19](https://github.com/user-attachments/assets/d452e699-47e9-4010-8b1f-4ccfa590797f)
-
+![image](https://github.com/user-attachments/assets/b9eb1aa4-c301-44ca-9008-cb03f57763a8)
 The final design of the robot is intended as a modular design, consisting of 3 modules: lower «traction» module, middle «sensor processing» module, and upper «power supply and color processing» module. This makes it easier to make repairs on any of the modules or to replace or rearrange parts.
 
 ![18](https://github.com/user-attachments/assets/5e4f2eba-f1bb-4dc9-9a03-35eb9aef169a)
