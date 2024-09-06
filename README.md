@@ -34,12 +34,12 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
  - Reinaldo Belmonte:
 >My name is Reinaldo Belmonte. I am the team's programmer and I'm responsible for developing most (if not all) of the robot's moveset. My expectations for this season is to do my best with this project and, hopefully, end up in the first places.
  - Jose Zambrano:
->I am José Miguel Zambrano, the team's mechanic, I am in charge of the robot's assembly and its proper maintenance. For this season I hope, alongside my team, to deliver a project that meets the expectations, in addition to representing my institution and my country.
+>I am José Miguel Zambrano, the team's mechanic. I am in charge of the robot's assembly and its proper maintenance. For this season I hope, alongside my team, to deliver a project that meets the expectations, in addition to representing my institution and my country.
 
 
 # Hardware Design
 ## Design Process
-The final design of the robot is intended as a modular design, consisting of 3 modules: lower "traction" module, middle "electronics" module, and upper "power supply and color processing" module.
+The final design of the robot is intended as a modular design, consisting of 3 modules: lower "traction" module, middle "sensor processing" module, and upper "power supply and color processing" module.
 
 The robot went through a multitude of changes until it reached its final iteration.
 One of these changes was the replacement of the traditional DC motor that we used before with a Hex Motor, which had a greater strength to the wheels. 
@@ -90,8 +90,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Current capacity: 2A (peaks up to 3A).
 >- Maximum power: 25W.
 >- Weight: 30g.
-   
-  -   **Hex Motor**: Located in the lower module of the robot, this motor serves a rear wheel drive for the robot, providing the foward or backward motion of the robot.
+
+  -  **Hex Motor**: Located in the lower module of the robot, this motor serves a rear wheel drive for the robot, providing the foward or backward motion of the robot.
 
 ![Team Violet (6)](https://github.com/user-attachments/assets/f643b8b0-68ef-45e7-9512-1cbdf85f33a8)
 > [!IMPORTANT]
@@ -125,7 +125,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Spline Internal Thread Size: M3
 >- Spline Internal Thread Depth: 6mm
 
-  -   **Arduino Mega 2560 Wifi R3**: The MEGA2560 Wifi is a variant of the Arduino programmable board* that includes an ESP8266 Wifi chip. Located in the middle module, it is used to manage the robot's mobility alongside the L298N Motor Driver, thus allowing the robot to move freely on a flat surface.
+  -   **Arduino Mega 2560 Wifi R3**: The MEGA2560 Wifi is a variant of the Arduino Mega programmable board that includes an ESP8266 Wifi chip. Located in the middle module, it is used to manage the robot's mobility alongside the L298N Motor Driver, thus allowing the robot to move freely on a flat surface.
 
 ![Team Violet (7)](https://github.com/user-attachments/assets/226f95b5-a6c6-4f5d-a20c-e399cd8f5db2)
 > [!IMPORTANT]
