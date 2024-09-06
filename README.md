@@ -39,15 +39,24 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 
 # Hardware Design
 ## Design Process
-The robot went through a multitude of changes until it reached its final iteration.
-One of these changes was the replacement of the traditional DC motor that we used before with a «Hex Motor» , which provided a greater torque to the rear wheel drive. 
+The robot is composed by a combination of 3D Printed parts for the most of its structure, the front wheels from a recicled toy car, the back wheels from a REV Robotics kit, and the electronics that give the robot its functionality.
 
-Same thing with the turning system, replacing the old Servomotor with a «Smart Robot Servo» , allowing for better and more precise turns when meeting a corner.
+Aditionally, the robot went through a multitude of changes until it reached its final iteration.
+One of these changes was the replacement of the traditional DC motor that we used before with a «Hex Motor» , which provided a greater torque to the rear-wheel drive. 
 
+![16](https://github.com/user-attachments/assets/fcde0553-a094-4118-b3f5-7b6047d28c62)
+As a result, the wheels used for the rear-wheel drive had to be also replaced, since the old ones couldn't adapt to the torque provided by the Hex Motor. This way we could take advantage of all the potential the Hex Motor had to offer.
+
+![Team Violet (13)](https://github.com/user-attachments/assets/2aee95e3-cd20-4668-bdfa-0d63f096a743)
+Alongside the rear-wheel drive, we also made changes to the turning system, replacing the old Servomotor with a «Smart Robot Servo» , allowing for better and more precise turns when meeting a corner.
+
+![17](https://github.com/user-attachments/assets/9dd77424-945e-4f4d-be46-a4755c477e44)
 Another of these changes was the reorganization of its elements, given the changes in the motors used and the space they now occupied, we made a redistribution to most of the elements present in the robot, this time taking into account to make it even more accessible for repairs or adjustments to any of its parts.
 
+![19](https://github.com/user-attachments/assets/d452e699-47e9-4010-8b1f-4ccfa590797f)
 The final design of the robot is intended as a modular design, consisting of 3 modules: lower «traction» module, middle «sensor processing» module, and upper «power supply and color processing» module. This makes it easier to make repairs on any of the modules or to replace or rearrange parts.
 
+![18](https://github.com/user-attachments/assets/5e4f2eba-f1bb-4dc9-9a03-35eb9aef169a)
 With all these changes made, a 3D design* for the entire structure of the robot was made, thus facilitating its visualization and analysis.
 
 ## Assembly Process
