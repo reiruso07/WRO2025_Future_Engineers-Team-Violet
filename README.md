@@ -44,7 +44,7 @@ The robot is composed by a combination of 3D Printed parts for the most of its s
 Aditionally, the robot went through a multitude of changes until it reached its final iteration.
 One of these changes was the replacement of the traditional DC motor that we used before with a «Hex Motor» , which provided a greater torque to the rear-wheel drive. 
 
-![16](https://github.com/user-attachments/assets/fcde0553-a094-4118-b3f5-7b6047d28c62)
+![image](https://github.com/user-attachments/assets/0dac3444-2c79-42ad-b58b-0bf60825ca2d)
 
 As a result, the wheels used for the rear-wheel drive had to be also replaced, since the old ones couldn't adapt to the torque provided by the Hex Motor. This way we could take advantage of all the potential the Hex Motor had to offer.
 
