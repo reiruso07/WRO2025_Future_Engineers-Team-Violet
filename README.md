@@ -152,7 +152,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- 5V DC via GPIO header (minimum 3A*)
 >- Operating temperature: 0 – 50 degrees C ambient
 
-   -   **Ultrasonic Sensor**: The robot has 3 HC-SR04 ultrasonic sensors on the left, right and front of the "Bumper" piece, located in the middle module. They are used to provide orientation to the robot when moving in any environment, allowing it to detect obstacles or adjacent walls.
+   -   **HC-SR04 Ultrasonic Sensor**: The robot has 3 HC-SR04 ultrasonic sensors on the left, right and front of the "Bumper" piece, located in front of the middle module. They are used to provide orientation to the robot when moving in any environment, allowing it to detect obstacles or adjacent walls.
 
 ![Team Violet (10)](https://github.com/user-attachments/assets/37ed400c-cc16-441c-8d57-fe2773e33e6c)
 > [!IMPORTANT]
