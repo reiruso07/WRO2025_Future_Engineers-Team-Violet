@@ -52,7 +52,7 @@ As a result, the wheels used for the rear-wheel drive had to be also replaced, s
 
 Alongside the rear-wheel drive, we also made changes to the turning system, replacing the old Servomotor with a «Smart Robot Servo» , allowing for better and more precise turns when meeting a corner.
 
-![17](https://github.com/user-attachments/assets/9dd77424-945e-4f4d-be46-a4755c477e44)
+![image](https://github.com/user-attachments/assets/9e2f925c-0d77-45f9-8e84-642a902e337c)
 
 Another of these changes was the reorganization of its elements, given the changes in the motors used and the space they now occupied, we made a redistribution to most of the elements present in the robot, this time taking into account to make it even more accessible for repairs or adjustments to any of its parts.
 
