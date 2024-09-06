@@ -39,14 +39,14 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 
 # Hardware Design
 ## Design Process
-The final design of the robot is intended as a modular design, consisting of 3 modules: lower «traction» module, middle «sensor processing» module, and upper «power supply and color processing» module. This makes it easier to make repairs on any of the modules or to replace or rearrange parts.
-
 The robot went through a multitude of changes until it reached its final iteration.
 One of these changes was the replacement of the traditional DC motor that we used before with a «Hex Motor» , which provided a greater torque to the rear wheel drive. 
 
 Same thing with the turning system, replacing the old Servomotor with a «Smart Robot Servo» , allowing for better and more precise turns when meeting a corner.
 
 Another of these changes was the reorganization of its elements, given the changes in the motors used and the space they now occupied, we made a redistribution to most of the elements present in the robot, this time taking into account to make it even more accessible for repairs or adjustments to any of its parts.
+
+The final design of the robot is intended as a modular design, consisting of 3 modules: lower «traction» module, middle «sensor processing» module, and upper «power supply and color processing» module. This makes it easier to make repairs on any of the modules or to replace or rearrange parts.
 
 With all these changes made, a 3D design* for the entire structure of the robot was made, thus facilitating its visualization and analysis.
 
