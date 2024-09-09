@@ -90,7 +90,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 
 - **Bumper**: Used as a extension of the Main Chassis piece, it is used to locate the HC-SR04 sensors a little further ahead so it can detect the walls more easily.
   
-![Diseño sin título (2)](https://github.com/user-attachments/assets/e086b3ef-9450-4917-b05d-0d8dfc55d821)
+![image](https://github.com/user-attachments/assets/ff2e8614-e6ad-4338-be8c-9bc7ed80cfd6)
+
 - **Crossing System**: As it's name says, this part makes it possible to transmit the movement of the servomotor to the front wheels, thus allowing the robot to change direction.
   
 ![image](https://github.com/user-attachments/assets/208face9-06aa-460a-b625-3d1684cf0339)
