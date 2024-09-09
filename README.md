@@ -81,7 +81,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 
 - **Smart Robot Servo Support Bracket**: A piece that helps fasten the Servo Motor to the Main Chassis structure.
 
-![Team Violet (4)](https://github.com/user-attachments/assets/38c7aa3a-10ad-4f12-be8e-98bef2fec6b1)
+![image](https://github.com/user-attachments/assets/ab34e9ed-d605-45a0-844f-3614b6d185ce)
+
 - **HC-SR04 Support Bracket**: Located in the "Bumper" piece, it serves as support for the HC-SR04 ultrasonic sensor, allowing it to function properly.
   
 ![image](https://github.com/user-attachments/assets/6b7f4685-7113-492e-8147-6c18940981ec)
