@@ -178,7 +178,9 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Duration of the output echo pulse (TTL level): 100-25000 μS.
 >- Minimum waiting time between one measurement and the start of another: 20 mS.
   
-   -   **Camera: The robot uses an 
+   -   **Camera**: The robot uses an Spedal MF920P Webcam to recognize the colors in the environment. It has a Full HD 1080p resolution at 30 fps, with a H.264 Video Compression and a microphone incorporated.
+
+![Team Violet (13)](https://github.com/user-attachments/assets/a8b72dc5-9b44-46e3-9c54-b1c51643a8d0)
    
    -   **3.7V 18650 Lithium Batteries**: Used to provide power to the Hex Motor and Smart Robot Servo on the lower module, this batteries have a nominal voltage of 3.7V and a maximum voltage of 4.2V and a capacity of 3500 mAh each.
 
