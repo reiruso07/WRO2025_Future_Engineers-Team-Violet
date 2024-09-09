@@ -77,7 +77,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 ![5080268763353427355](https://github.com/user-attachments/assets/10351e4e-c0ce-4e54-90fb-9f68c6334554)
 - **Hex Motor Support Bracket**: A piece that helps fasten the Hex Motor to the Main Chassis structure.
   
-![Team Violet (3)](https://github.com/user-attachments/assets/d5ca7c77-ba7e-4c99-9dd5-d163b2e5dd29)
+![image](https://github.com/user-attachments/assets/930afabf-1804-49f6-a522-d513d7ad3582)
+
 - **Smart Robot Servo Support Bracket**: A piece that helps fasten the Servo Motor to the Main Chassis structure.
 
 ![Team Violet (4)](https://github.com/user-attachments/assets/38c7aa3a-10ad-4f12-be8e-98bef2fec6b1)
