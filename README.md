@@ -199,7 +199,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 
    -   **LDNIO 10000mAh Power Bank**: We use a LDNIO 10000mAh Power Bank to supply Raspberry Pi and the Arduino Mega with energy. It has 1 USB ports, along with a Micro-USB port for charging, with an output voltage of 5V and 2.4A.
 
-![Team Violet (14)](https://github.com/user-attachments/assets/e7d98596-75bd-4749-b7e4-9c88faad8db4)
+![image](https://github.com/user-attachments/assets/9f1f7ef6-66c7-4fef-86e4-b7abd323efb0)
 
 
 # Software Design
