@@ -113,7 +113,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 
   -  **Hex Motor**: Located in the lower module of the robot, this motor serves a rear wheel drive for the robot, providing the foward or backward motion of the robot.
 
-![Team Violet (6)](https://github.com/user-attachments/assets/f643b8b0-68ef-45e7-9512-1cbdf85f33a8)
+![image](https://github.com/user-attachments/assets/16d9b2bd-6199-470e-949e-5504afcfad55)
+
 > [!IMPORTANT]
 >Specifications
 >- Output Shaft: 5mm Female Hex
