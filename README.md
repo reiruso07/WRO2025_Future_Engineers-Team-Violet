@@ -178,7 +178,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 
    -   **HC-SR04 Ultrasonic Sensor**: The robot has 3 HC-SR04 ultrasonic sensors on the left, right and front of the "Bumper" piece, located in front of the middle module. They are used to provide orientation to the robot when moving in any environment, allowing it to detect obstacles or adjacent walls.
 
-![Team Violet (10)](https://github.com/user-attachments/assets/37ed400c-cc16-441c-8d57-fe2773e33e6c)
+![image](https://github.com/user-attachments/assets/5ba9f7f5-cc90-410c-a1e0-8072fd2e3875)
+
 > [!IMPORTANT]
 >- Supply voltage: 5 Vcc
 >- Working frequency: 40 KHz
