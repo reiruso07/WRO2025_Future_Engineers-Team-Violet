@@ -99,7 +99,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 ### Electronics
   -  **L298N Motor Driver**: Located in the middle module, it is used to control the Hex Motor and the Smart Robot Servo.
 
-![Team Violet (5)](https://github.com/user-attachments/assets/01d761ca-a524-4702-8539-821d6a561465)
+![image](https://github.com/user-attachments/assets/b318fc25-9c9b-4ae0-9318-8244021ce670)
+
 > [!IMPORTANT]
 > Specifications
 >- Channels: 2 (supports 2 DC motors or 1 PAP motor)
