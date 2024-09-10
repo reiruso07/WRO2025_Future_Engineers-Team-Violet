@@ -148,7 +148,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 
   -   **Arduino Mega 2560 Wifi R3**: The MEGA2560 Wifi is a variant of the Arduino Mega programmable board that includes an ESP8266 Wifi chip. Located in the middle module, it is used to manage the robot's mobility alongside the L298N Motor Driver, thus allowing the robot to move freely on a flat surface.
 
-![Team Violet (7)](https://github.com/user-attachments/assets/226f95b5-a6c6-4f5d-a20c-e399cd8f5db2)
+![image](https://github.com/user-attachments/assets/231f99f2-54ef-47d3-8b1e-a9c95b07bb37)
+
 > [!IMPORTANT]
 >- Microcontroller: ATmega2560
 >- Input voltage: 7-12V.
