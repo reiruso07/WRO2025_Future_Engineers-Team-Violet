@@ -130,7 +130,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 
   -   **Smart Robot Servo**: Located alongside the Hex Motor, it gives the robot the ability to rotate the front wheels, changing the orientation of the robot, thus allowing the robot to move freely in any direction on a flat surface.
 
-![Team Violet (8)](https://github.com/user-attachments/assets/1c37fbf0-e2ab-433c-b394-c836614daca8)
+![image](https://github.com/user-attachments/assets/87edde50-d0a1-4d55-b4a1-42cf02521a0a)
+
 > [!IMPORTANT]
 >- Specifications
 >- Weight: 2.05 oz.
