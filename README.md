@@ -161,7 +161,8 @@ Firstly, you take the 3D Printed Chassis piece, and
 
   -   **Raspberry Pi 4**: The Raspberry Pi 4 is a single-board development board used for entry-level computing. It is located in the upper module and it has the purpose of managing the "Color Processing" section, thus allowing the robot to recognize adjacent colors and use this information advantegiously.
 
-![Team Violet (9)](https://github.com/user-attachments/assets/28543380-10c2-4cb2-a976-c821c2f7005b)
+![image](https://github.com/user-attachments/assets/954561bf-8419-4184-868b-522318e37c8a)
+
 > [!IMPORTANT]
 >- Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.8GHz
 >- 4GB LPDDR4-3200 SDRAM (depending on model)
