@@ -226,7 +226,9 @@ The determination of the routes is based on the color of the cone next to the ro
 The information processed in the Raspberry Pi is sent to the Arduino Mega through the serial monitor with the serial library, using the _Ser.write_ function.
 
 # Range
+The scope of this project is defined as testing the capabilities of the autonomous robot in accomplishing the various tasks required by the competition. In the process of achieving these objectives, we had to develop a multitude of skills to be able to meet all the objectives successfully, some of these skills being: the ability to analyze and correct errors in the programming of the project (both in the mobility section and in the color processing section), having to detect and correct these errors quickly in order to make progress in the expected development times. Another of these skills was 3D design, which we used a lot to create different parts that were necessary to enable or facilitate the proper functioning of all components present in the robot.
 
+The development of this project for the Future Engineers category was quite a journey to come up with a design that could stand up to the challenges we faced, and we hope that when it comes down to it, it will be worth all the effort we made.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 Thank You. Team Violet - 2024.
