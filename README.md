@@ -24,9 +24,7 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
      - Robot Orientation
      - Route Determination
    - Data Sending
- - Team History
-     - 2023 Season
-     - Early 2024 Season
+ - Range
 
 # Team Violet's Members
  - Adrian Alvarez:
@@ -227,13 +225,8 @@ The determination of the routes is based on the color of the cone next to the ro
 ## Data Sending
 The information processed in the Raspberry Pi is sent to the Arduino Mega through the serial monitor with the serial library, using the _Ser.write_ function.
 
-# Team History
-## 2023 Season
-This was the first season we took the challenge of the Future Engineers category, and it came with a lot of obstacles. The main issue was time; since we were also participating on _Copa Ka'i 2023_, it was a problem to get the time needed to really develop and perfect the design.
+# Range
 
-
-## Early 2024 Season
-tatatata
 
 --------------------------------------------------------------------------------------------------------------------------------------
 Thank You. Team Violet - 2024.
