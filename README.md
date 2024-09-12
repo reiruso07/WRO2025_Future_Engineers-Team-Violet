@@ -145,7 +145,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 >- Spline Internal Thread Size: M3
 >- Spline Internal Thread Depth: 6mm
 
-  -   **Arduino Mega 2560 Wifi R3**: The MEGA2560 Wifi is a variant of the Arduino Mega programmable board that includes an ESP8266 Wifi chip. Located in the middle module, it is used to manage the robot's mobility alongside the L298N Motor Driver, thus allowing the robot to move freely on a flat surface.
+  -   **Arduino Mega 2560 R3**: Located in the middle module, it is used to manage the robot's mobility alongside the L298N Motor Driver, thus allowing the robot to move freely on a flat surface.
 
 ![image](https://github.com/user-attachments/assets/231f99f2-54ef-47d3-8b1e-a9c95b07bb37)
 
