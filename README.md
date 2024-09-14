@@ -63,7 +63,13 @@ The final design of the robot is intended as a modular design, consisting of 3 m
 With all these changes made, a 3D design* for the entire structure of the robot was made, thus facilitating its visualization and analysis.
 
 ## Assembly Process
-Firstly, you take the 3D Printed Chassis piece, and 
+The assembly process of the robot was divided into each module separately to later unify all the modules into a single robot. The assembly of the lower module started looking for different references on the internet to find an ideal location to place all the corresponding motors. After finding the ideal locations for each motor, the parts of the main chassis and the turning system were designed and 3D printed, tailored to each element to optimize the performance of the robot. 
+
+Following this, we started the assembly of the second module, being much easier to carry out, since instead of using a 3d printed piece, we used a piece of compressed cardboard as a base to place all the elements of the second module. When performing this part of the assembly, we performed some functional tests to ensure that everything worked properly; there we realized that the HC-SR04 sensors suffered from detection failures due to how they were placed in the design, so we designed an extension of the base to place them there, thus solving the problem.
+
+Finally, we started the assembly of the 3rd and last module, following a sequence very similar to the previous one: We use a piece of compressed cardboard as the base of the 3rd module and place the corresponding elements.
+
+And to unify the design, we drilled holes in the 3 bases of each module (except the main chassis which was already designed with these holes in mind) and joined them with multiple “pillar shafts” in a tower shape.
 
 ## Elements
 ### 3D Printed
