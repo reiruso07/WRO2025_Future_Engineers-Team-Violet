@@ -147,7 +147,7 @@ Firstly, you take the 3D Printed Chassis piece, and
 
   -   **Arduino Mega 2560 R3**: Located in the middle module, it is used to manage the robot's mobility alongside the L298N Motor Driver, thus allowing the robot to move freely on a flat surface.
 
-![image](https://github.com/user-attachments/assets/231f99f2-54ef-47d3-8b1e-a9c95b07bb37)
+![10](https://github.com/user-attachments/assets/c5fc0711-7ad3-4b76-a04e-9142b096499a)
 
 > [!IMPORTANT]
 >- Microcontroller: ATmega2560
@@ -193,7 +193,7 @@ Firstly, you take the 3D Printed Chassis piece, and
    
    -   **3.7V 18650 Lithium Batteries**: Used to provide power to the Hex Motor and Smart Robot Servo on the lower module, this batteries have a nominal voltage of 3.7V and a maximum voltage of 4.2V and a capacity of 3500 mAh each.
 
-![image](https://github.com/user-attachments/assets/fdb470e2-b58c-4746-a84c-49245ed4c5d6)
+![14](https://github.com/user-attachments/assets/79db2eeb-5267-411f-9fe3-d607a09bea8a)
 
    -   **LDNIO 10000mAh Power Bank**: We use a LDNIO 10000mAh Power Bank to supply Raspberry Pi and the Arduino Mega with energy. It has 1 USB ports, along with a Micro-USB port for charging, with an output voltage of 5V and 2.4A.
 
