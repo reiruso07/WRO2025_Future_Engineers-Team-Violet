@@ -5,7 +5,7 @@ In this repository you will find all the information related to the construction
 This has been an incredible journey with a lot of obstacles, and we have done our best to come up with a design that we were not only satisfied with, but one that could properly acomplish all of the objectives present in this edition of the "Future Engineers" category.
 
 ## Contents
-- Team Violet's Members
+- [Team Violet's Members](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#team-violets-members)
 - Hardware Design
    - Design Process
    - Assembly Process
