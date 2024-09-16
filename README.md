@@ -32,8 +32,15 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 
 >Hi, my name is Adrian Alvarez, I'm part of Team Violet and I'm responsible for the 3D designs used in the robot. My expectations of this competition are to learn and to test my skills in robotics.
  - Reinaldo Belmonte:
+
+![image](https://github.com/user-attachments/assets/181e0041-2fbb-4ff6-b8b1-abc1b730d39e)
+
+   
 >My name is Reinaldo Belmonte. I am the team's programmer and I'm responsible for developing most (if not all) of the robot's moveset. My expectations for this season is to do my best with this project and, hopefully, end up in the first places.
  - Jose Zambrano:
+
+![image](https://github.com/user-attachments/assets/f6a6fa98-6a3a-4fed-b37b-d4e880ce9ac3)
+   
 >I am José Miguel Zambrano, the team's mechanic. I am in charge of the robot's assembly and its proper maintenance. For this season I hope, alongside my team, to deliver a project that meets the expectations, in addition to representing my institution and my country.
 
 
