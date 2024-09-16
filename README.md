@@ -209,18 +209,18 @@ And to unify the design, we drilled holes in the 3 bases of each module (except 
 # Software Design
 ## Image and Color Processing
 ### Image Capturing
-Para la deteccion de colores se utiliza una camara la cual captura un frame el cual es procesado con python gracias a la libreria de manipulacion de imagenes opencv
+For color detection, the Spedal MF920P camera is used to capture a frame which is processed with Python thanks to the OpenCV image manipulation library.
 ### Creating Red and Green masks
-OpenCV lee a las imágenes o fotogramas en BGR, por ello es necesario transformarlas al espacio de color HSV. Para ello nos ayudaremos de la función cv2.cvtColor, como primer argumento le daremos la imagen a transformar, y luego cv2.COLOR_BGR2HSV, para indicar que transformaremos de BGR a HSV. Esto porque los parametros que le vamos para identificar los colores en el modelo HSV(Hue, Saturation, Value). 
-Los parametros utilizados para identificar el rojo fueron: 
-redbajo1=np.array([0,150,20],np.uint8) 
-redalto1=np.array([3,255,255],np.uint8) 
-redbajo2=np.array([175,100,20],np.uint8) 
-redalto2=np.array([179,255,255],np.uint8)
-y los parametros utilizados para el verde fueron:
-verdebajo=np.array([35,100,20],np.uint8) 
-vaerdealto=np.array([80,255,255],np.uint8) 
-El resultado de estos procedimientos es una imagen binaria en la que lo blanco son los colores detectados con los parametros entregados anteriormente. Esta imagen se utilizara mas adelante para obtener la imagen final
+OpenCV reads the images or frames in BGR, therefore it is necessary to transform them to the HSV color space. This is because the parameters that we are going to give to identify the colors work in the HSV model (Hue, Saturation, Value). To do this we will use the function cv2.cvtColor, as first argument we will give the image to transform, and then cv2.COLOR_BGR2HSV, to indicate that we will transform from BGR to HSV.
+The parameters used to identify red were: 
+>redbajo1=np.array([0,150,20],np.uint8) 
+>redalto1=np.array([3,255,255],np.uint8) 
+>redbajo2=np.array([175,100,20],np.uint8) 
+>redalto2=np.array([179,255,255],np.uint8)
+and the parameters used for green were:
+>verdebajo=np.array([35,100,20],np.uint8) 
+>verdealto=np.array([80,255,255],np.uint8) 
+The result of these procedures is a binary image in which the whites are the colors detected with the parameters given above. This image will be used later to obtain the final image.
 ### Final Image
 Para sacar la imagen final se utilizaran las funciones de la libreria opencv: cv2.findContours y cv2.drawContours. La funcion  cv2.findContours sirve para identificar los colores detectados en la imagen binaria que junto con la funcion cv2.drawContours sirve para marcar en la imagen original los obstaculos.
 ### Location from the cones
