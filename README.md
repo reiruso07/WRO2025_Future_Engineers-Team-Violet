@@ -240,8 +240,8 @@ To obtain the final image we will use the functions `cv2.findContours` and `cv2.
 ### Location from the cones
 To identify how far the cones are from the robot, the image is divided into four positions:
 
-![Team Violet (2)](https://github.com/user-attachments/assets/554a47f1-b764-401d-8c5e-d21342cfd031)
-1. 2, 3, and 4
+![Team Violet (3)](https://github.com/user-attachments/assets/1cff6c07-f8c3-4df2-9cc2-2b0ea111c603)
+1, 2, 3, and 4
 
 The higher the position means that the obstacle is farther away from the robot, and with this information be able to calculate how much the robot has to move to avoid the cones more effectively.
 
