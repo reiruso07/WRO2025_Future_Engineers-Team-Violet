@@ -28,7 +28,7 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 # Team Violet's Members
  - Adrian Alvarez:
 
-![5134325170201276045](https://github.com/user-attachments/assets/6a6a73ce-967f-4ea5-85ae-bf492e2726ee)--------------
+![image](https://github.com/user-attachments/assets/01bdc9a7-1ad9-40bc-ae4c-89c82bd9f1e7)--------------
 
 >Hi, my name is Adrian Alvarez, I'm part of Team Violet and I'm responsible for the 3D designs used in the robot. My expectations of this competition are to learn and to test my skills in robotics.
  - Reinaldo Belmonte:
