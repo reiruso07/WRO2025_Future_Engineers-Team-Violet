@@ -209,17 +209,22 @@ And to unify the design, we drilled holes in the 3 bases of each module (except 
 # Software Design
 ## Image and Color Processing
 ### Image Capturing
-nan
+Para la deteccion de colores se utiliza una camara la cual captura un frame el cual es procesado con python gracias a la libreria de manipulacion de imagenes opencv
 ### Creating Red and Green masks
-nan
-### Gray Image with red and green details
-nan
-### Color Detection
-nan
-### Location Processing and distance from the cones
-nan
-
-## Robot Movement
+OpenCV lee a las imágenes o fotogramas en BGR, por ello es necesario transformarlas al espacio de color HSV. Para ello nos ayudaremos de la función cv2.cvtColor, como primer argumento le daremos la imagen a transformar, y luego cv2.COLOR_BGR2HSV, para indicar que transformaremos de BGR a HSV. Esto porque los parametros que le vamos para identificar los colores en el modelo HSV(Hue, Saturation, Value). 
+Los parametros utilizados para identificar el rojo fueron: 
+redbajo1=np.array([0,150,20],np.uint8) 
+redalto1=np.array([3,255,255],np.uint8) 
+redbajo2=np.array([175,100,20],np.uint8) 
+redalto2=np.array([179,255,255],np.uint8)
+y los parametros utilizados para el verde fueron:
+verdebajo=np.array([35,100,20],np.uint8) 
+vaerdealto=np.array([80,255,255],np.uint8) 
+El resultado de estos procedimientos es una imagen binaria en la que lo blanco son los colores detectados con los parametros entregados anteriormente. Esta imagen se utilizara mas adelante para obtener la imagen final
+### Final Image
+Para sacar la imagen final se utilizaran las funciones de la libreria opencv: cv2.findContours y cv2.drawContours. La funcion  cv2.findContours sirve para identificar los colores detectados en la imagen binaria que junto con la funcion cv2.drawContours sirve para marcar en la imagen original los obstaculos.
+### Location from the cones
+Para identificar que tan lejos estan los conos del carro se divide la imagen en cuatro posiciones posicion 1,2,3,4 mientras mayor es la posicion significa que el obstaculo esta mas lejos del carro para calcular que tanto se tiene que mover el carro para sortear el carro con mayor eficacia.
 ### Smart Robot Servo configuration
 The Smart Robot Servo is set on Pin 7 of the Arduino Mega and is configured with _Servo.write_ function. The moveset of the Smart Robot Servo is defined by the distance given by the HC-SR04 sensors depending on whether the walls are near, far away or in a corner.
 ### Robot Orientation
