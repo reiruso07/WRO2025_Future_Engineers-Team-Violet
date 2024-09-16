@@ -225,6 +225,7 @@ El resultado de estos procedimientos es una imagen binaria en la que lo blanco s
 Para sacar la imagen final se utilizaran las funciones de la libreria opencv: cv2.findContours y cv2.drawContours. La funcion  cv2.findContours sirve para identificar los colores detectados en la imagen binaria que junto con la funcion cv2.drawContours sirve para marcar en la imagen original los obstaculos.
 ### Location from the cones
 Para identificar que tan lejos estan los conos del carro se divide la imagen en cuatro posiciones posicion 1,2,3,4 mientras mayor es la posicion significa que el obstaculo esta mas lejos del carro para calcular que tanto se tiene que mover el carro para sortear el carro con mayor eficacia.
+## Robot Movement
 ### Smart Robot Servo configuration
 The Smart Robot Servo is set on Pin 7 of the Arduino Mega and is configured with _Servo.write_ function. The moveset of the Smart Robot Servo is defined by the distance given by the HC-SR04 sensors depending on whether the walls are near, far away or in a corner.
 ### Robot Orientation
