@@ -211,7 +211,7 @@ And to unify the design, we drilled holes in the 3 bases of each module (except 
 ### Image Capturing
 For color detection, the Spedal MF920P camera is used to capture a frame which is processed with Python thanks to the OpenCV image manipulation library.
 ### Creating Red and Green masks
-OpenCV reads the images or frames in BGR, therefore it is necessary to transform them to the HSV color space. This is because the parameters that we are going to give to identify the colors work in the HSV model (Hue, Saturation, Value). To do this we will use the function cv2.cvtColor, as first argument we will give the image to transform, and then cv2.COLOR_BGR2HSV, to indicate that we will transform from BGR to HSV.
+OpenCV reads the images or frames in BGR, therefore it is necessary to transform them to the HSV color space. This is because the parameters that we are going to give to identify the colors work in the HSV model (Hue, Saturation, Value). To do this we will use the function `cv2.cvtColor`, as first argument we will give the image to transform, and then `cv2.COLOR_BGR2HSV`, to indicate that we will transform from BGR to HSV.
 The parameters used to identify red were: 
 
 `redbajo1=np.array([0,150,20],np.uint8)`
@@ -227,15 +227,24 @@ The parameters used to identify red were:
 
 and the parameters used for green were:
 
->verdebajo=np.array([35,100,20],np.uint8)
->
->verdealto=np.array([80,255,255],np.uint8)
+`verdebajo=np.array([35,100,20],np.uint8)`
+
+
+`verdealto=np.array([80,255,255],np.uint8)`
 
 The result of these procedures is a binary image in which the whites are the colors detected with the parameters given above. This image will be used later to obtain the final image.
+
+*inserte imagen de como queda
 ### Final Image
-Para sacar la imagen final se utilizaran las funciones de la libreria opencv: cv2.findContours y cv2.drawContours. La funcion  cv2.findContours sirve para identificar los colores detectados en la imagen binaria que junto con la funcion cv2.drawContours sirve para marcar en la imagen original los obstaculos.
+To obtain the final image we will use the functions `cv2.findContours` and `cv2.drawContours` from the OpenCV library. The function `cv2.findContours` is used to identify the colors detected in the binary image that together with the function `cv2.drawContours` is used to mark the obstacles in the final image.
 ### Location from the cones
-Para identificar que tan lejos estan los conos del carro se divide la imagen en cuatro posiciones posicion 1,2,3,4 mientras mayor es la posicion significa que el obstaculo esta mas lejos del carro para calcular que tanto se tiene que mover el carro para sortear el carro con mayor eficacia.
+To identify how far the cones are from the robot, the image is divided into four positions:
+
+
+*imagen de la vaina dividida en 4 secciones
+
+
+The higher the position means that the obstacle is farther away from the robot, and with this information be able to calculate how much the robot has to move to avoid the cones more effectively.
 ## Robot Movement
 ### Smart Robot Servo configuration
 The Smart Robot Servo is set on Pin 7 of the Arduino Mega and is configured with _Servo.write_ function. The moveset of the Smart Robot Servo is defined by the distance given by the HC-SR04 sensors depending on whether the walls are near, far away or in a corner.
