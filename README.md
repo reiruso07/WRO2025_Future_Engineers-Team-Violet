@@ -59,7 +59,7 @@ The final design of the robot is intended as a modular design, consisting of 3 m
 
 ![image](https://github.com/user-attachments/assets/d1e977a4-3c6f-47d1-8bdc-23a5092dba35)
 
-With all these changes made, a 3D design* for the entire structure of the robot was made, thus facilitating its visualization and analysis.
+With all these changes made, a [3D design](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/tree/main/other/model_structure) for the entire structure of the robot was made, thus facilitating its visualization and analysis.
 
 ## Assembly Process
 The assembly process of the robot was divided into each module separately to later unify all the modules into a single robot. The assembly of the lower module started looking for different references on the internet to find an ideal location to place all the corresponding motors. After finding the ideal locations for each motor, the parts of the main chassis and the turning system were designed and 3D printed, tailored to each element to optimize the performance of the robot. 
