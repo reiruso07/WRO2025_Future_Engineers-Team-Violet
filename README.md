@@ -6,24 +6,24 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 
 ## Contents
 - [Team Violet's Members](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#team-violets-members)
-- Hardware Design
-   - Design Process
-   - Assembly Process
-   - Elements
-     - 3D Printed
-     - Electronics
-- Software Design
-   - Image and Color Processing
-     - Image Capturing
-     - Creating Red and Green masks
-     - Final Image
-     - Distance from the cones
-   - Robot Movement
-     - Smart Robot Servo configuration
-     - Robot Orientation
-     - Route Determination
-   - Data Sending
- - Impact
+- [Hardware Design](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#hardware-design)
+   - [Design Process](
+   - [Assembly Process](
+   - [Elements](
+     - [3D Printed](
+     - [Electronics](
+- [Software Design](
+   - [Image and Color Processing](
+     - [Image Capturing](
+     - [Creating Red and Green masks](
+     - [Final Image](
+     - [Distance from the cones](
+   - [Robot Movement](
+     - [Smart Robot Servo configuration](
+     - [Robot Orientation](
+     - [Route Determination](
+   - [Data Sending](
+ - [Impact](
 
 # Team Violet's Members
  - Adrian Alvarez:
