@@ -16,9 +16,8 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
    - Image and Color Processing
      - Image Capturing
      - Creating Red and Green masks
-     - Gray Image with red and green details
-     - Color Detection
-     - Location Processing and distance from the cones
+     - Final Image
+     - Distance from the cones
    - Robot Movement
      - Smart Robot Servo configuration
      - Robot Orientation
