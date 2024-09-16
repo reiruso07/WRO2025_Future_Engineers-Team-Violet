@@ -240,11 +240,10 @@ To obtain the final image we will use the functions `cv2.findContours` and `cv2.
 ### Location from the cones
 To identify how far the cones are from the robot, the image is divided into four positions:
 
-
-*imagen de la vaina dividida en 4 secciones
-
+![Team Violet (2)](https://github.com/user-attachments/assets/554a47f1-b764-401d-8c5e-d21342cfd031)
 
 The higher the position means that the obstacle is farther away from the robot, and with this information be able to calculate how much the robot has to move to avoid the cones more effectively.
+
 ## Robot Movement
 ### Smart Robot Servo configuration
 The Smart Robot Servo is set on Pin 7 of the Arduino Mega and is configured with _Servo.write_ function. The moveset of the Smart Robot Servo is defined by the distance given by the HC-SR04 sensors depending on whether the walls are near, far away or in a corner.
