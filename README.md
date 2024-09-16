@@ -7,23 +7,23 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 ## Contents
 - [Team Violet's Members](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#team-violets-members)
 - [Hardware Design](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#hardware-design)
-   - [Design Process](
-   - [Assembly Process](
-   - [Elements](
-     - [3D Printed](
-     - [Electronics](
-- [Software Design](
-   - [Image and Color Processing](
-     - [Image Capturing](
-     - [Creating Red and Green masks](
-     - [Final Image](
-     - [Distance from the cones](
-   - [Robot Movement](
-     - [Smart Robot Servo configuration](
-     - [Robot Orientation](
-     - [Route Determination](
-   - [Data Sending](
- - [Impact](
+   - [Design Process](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#design-process)
+   - [Assembly Process](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#assembly-process)
+   - [Elements](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#elements)
+     - [3D Printed](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#3d-printed)
+     - [Electronics](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#electronics)
+- [Software Design](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#software-design)
+   - [Image and Color Processing](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#image-and-color-processing)
+     - [Image Capturing](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#image-capturing)
+     - [Creating Red and Green masks](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#creating-red-and-green-masks)
+     - [Final Image](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#final-image)
+     - [Distance from the cones](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#location-from-the-cones)
+   - [Robot Movement](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#robot-movement)
+     - [Smart Robot Servo configuration](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#smart-robot-servo-configuration)
+     - [Robot Orientation](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#robot-orientation)
+     - [Route Determination](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#route-determination)
+   - [Data Sending](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#data-sending)
+ - [Impact](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#impact)
 
 # Team Violet's Members
  - Adrian Alvarez:
