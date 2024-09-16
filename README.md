@@ -215,11 +215,14 @@ OpenCV reads the images or frames in BGR, therefore it is necessary to transform
 The parameters used to identify red were: 
 
 `redbajo1=np.array([0,150,20],np.uint8)`
-``
+
+
 `redalto1=np.array([3,255,255],np.uint8)`
-``
+
+
 `redbajo2=np.array([175,100,20],np.uint8)`
-``
+
+
 `redalto2=np.array([179,255,255],np.uint8)`
 
 and the parameters used for green were:
