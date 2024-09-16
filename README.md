@@ -214,14 +214,18 @@ For color detection, the Spedal MF920P camera is used to capture a frame which i
 OpenCV reads the images or frames in BGR, therefore it is necessary to transform them to the HSV color space. This is because the parameters that we are going to give to identify the colors work in the HSV model (Hue, Saturation, Value). To do this we will use the function cv2.cvtColor, as first argument we will give the image to transform, and then cv2.COLOR_BGR2HSV, to indicate that we will transform from BGR to HSV.
 The parameters used to identify red were: 
 
->redbajo1=np.array([0,150,20],np.uint8) 
->redalto1=np.array([3,255,255],np.uint8) 
->redbajo2=np.array([175,100,20],np.uint8) 
+>redbajo1=np.array([0,150,20],np.uint8)
+>
+>redalto1=np.array([3,255,255],np.uint8)
+>
+>redbajo2=np.array([175,100,20],np.uint8)
+>
 >redalto2=np.array([179,255,255],np.uint8)
 
 and the parameters used for green were:
 
->verdebajo=np.array([35,100,20],np.uint8) 
+>verdebajo=np.array([35,100,20],np.uint8)
+>
 >verdealto=np.array([80,255,255],np.uint8)
 
 The result of these procedures is a binary image in which the whites are the colors detected with the parameters given above. This image will be used later to obtain the final image.
