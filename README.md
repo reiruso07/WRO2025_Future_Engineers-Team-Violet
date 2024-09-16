@@ -233,7 +233,7 @@ and the parameters used for green were:
 
 The result of these procedures is a binary image in which the whites are the colors detected with the parameters given above. This image will be used later to obtain the final image.
 
-![Team Violet (1)](https://github.com/user-attachments/assets/82ec0ed0-8dc7-4a96-9ba3-261e1bc5696c)
+![Team Violet (1)](https://github.com/user-attachments/assets/81629bd2-870a-4ea8-9536-24d4c8017279)
 
 ### Final Image
 To obtain the final image we will use the functions `cv2.findContours` and `cv2.drawContours` from the OpenCV library. The function `cv2.findContours` is used to identify the colors detected in the binary image that together with the function `cv2.drawContours` is used to mark the obstacles in the final image.
