@@ -265,7 +265,7 @@ vice versa.
 The determination of the routes is based on the color of the cone next to the robot. If the python code detects a color this information will be sent to the arduino and transformed into a left or right turn depending on the detected color.
 
 ## Data Sending
-The information processed in the Raspberry Pi is sent to the Arduino Mega through the serial monitor with the serial library, using the _Ser.write_ function.
+First of all, we import the `smbus` library and then declare the `i2c identifier` that the Raspberry Pi 5 will have, additionally, the `i2c address` that the Raspberry Pi 5 has is placed, which is obtained thanks to a command executed in the terminal; then we create a function in charge of sending the information to the Arduino Mega 2560 R3 through a USB connection.
 
 # Impact
 The goal of this project is to evaluate the capabilities of the autonomous robot in fulfilling the various tasks that the competition demands. In the course of achieving these objectives, we had to develop a variety of skills to be able to meet all the objectives successfully, some of these skills being: the ability to analyze and correct errors in the programming of the project (both in the mobility section and in the color processing section), having to detect and correct these errors quickly in order to make progress in the expected completion times. Another of these skills was 3D design, which we used frequently to create different parts that were necessary to allow or facilitate the proper functioning of all components present in the robot.
