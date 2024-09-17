@@ -75,9 +75,9 @@ With all these changes made, a [3D design](https://github.com/reiruso07/WRO2024_
 ### Photos
 | | |
 | ------------------------- | --------------------------- |
-| ![front](./main/v-photos/frontview.png) | ![back](./v-photos/backview.png)     |
-| ![left](./v-photos/leftview.png)   | ![right](./v-photos/rightview.png)   |
-| ![top](./v-photos/topview.png)     | ![bottom](./v-photos/bottomview.png) |
+| ![front](./main/v-photos/frontview.jpg) | ![back](./v-photos/backview.jpg)     |
+| ![left](./v-photos/leftview.jpg)   | ![right](./v-photos/rightview.jpg)   |
+| ![top](./v-photos/topview.jpg)     | ![bottom](./v-photos/bottomview.jpg) |
 
 
 ## Assembly Process
