@@ -8,6 +8,7 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 - [Team Violet's Members](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#team-violets-members)
 - [Hardware Design](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#hardware-design)
    - [Design Process](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#design-process)
+     - [Photos]()
    - [Assembly Process](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#assembly-process)
    - [Elements](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#elements)
      - [3D Printed](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#3d-printed)
@@ -70,6 +71,14 @@ The final design of the robot is intended as a modular design, consisting of 3 m
 ![image](https://github.com/user-attachments/assets/d1e977a4-3c6f-47d1-8bdc-23a5092dba35)
 
 With all these changes made, a [3D design](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/tree/main/other/model_structure) for the entire structure of the robot was made, thus facilitating its visualization and analysis.
+
+### Photos
+| | |
+| ------------------------- | --------------------------- |
+| ![front](./v-photos/frontview.png) | ![back](./v-photos/backview.png)     |
+| ![left](./v-photos/leftview.png)   | ![right](./v-photos/rightview.png)   |
+| ![top](./v-photos/topview.png)     | ![bottom](./v-photos/bottomview.png) |
+
 
 ## Assembly Process
 The assembly process of the robot was divided into each module separately to later unify all the modules into a single robot. The assembly of the lower module started looking for different references on the internet to find an ideal location to place all the corresponding motors. After finding the ideal locations for each motor, the parts of the main chassis and the turning system were designed and 3D printed, tailored to each element to optimize the performance of the robot. 
