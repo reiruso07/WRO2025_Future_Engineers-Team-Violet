@@ -262,7 +262,7 @@ The Smart Robot Servo is set on Pin 7 of the Arduino Mega and is configured with
 The orientation of the robot is defined by the first corner, if the corner is of the rigth side it means that the direction is clockwise and 
 vice versa.
 ### Route Determination
-The determination of the routes is based on the color of the cone next to the robot. If the python code detects a color this information will be sent to the arduino and transformed into a left or right turn depending on the detected color.
+The determination of the routes is based on the color of the cone next to the robot. If the Python code detects a color this information will be sent to the arduino and transformed into a left or right turn depending on the detected color.
 
 ## Data Sending
 First of all, we import the `smbus` library and then declare the `i2c identifier` that the Raspberry Pi 5 will have, additionally, the `i2c address` that the Raspberry Pi 5 has is placed, which is obtained thanks to a command executed in the terminal; then we create a function in charge of sending the information to the Arduino Mega 2560 R3 through a USB connection.
