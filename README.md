@@ -257,7 +257,7 @@ The higher the position means that the obstacle is farther away from the robot, 
 
 ## Robot Movement
 ### Smart Robot Servo configuration
-The Smart Robot Servo is set on Pin 7 of the Arduino Mega and is configured with `Servo.write` function. The moveset of the Smart Robot Servo is defined by the distance given by the HC-SR04 sensors depending on whether the walls are near, far away or in a corner.
+The Smart Robot Servo is set on Pin 7 of the Arduino Mega and is configured with `Servo.write` function. The moveset of the Smart Robot Servo is defined by the distance given by the HC-SR04 sensors depending on whether the walls are near, far away or the robot is in a corner.
 ### Robot Orientation
 The orientation of the robot is defined by the first corner, if the corner is of the rigth side it means that the direction is clockwise and 
 vice versa.
