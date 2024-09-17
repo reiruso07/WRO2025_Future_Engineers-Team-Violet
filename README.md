@@ -63,7 +63,7 @@ Alongside the rear-wheel drive, we also made changes to the turning system, repl
 
 Another of these changes was the reorganization of its elements, given the changes in the motors used and the space they now occupied, we made a redistribution to most of the elements present in the robot, this time taking into account to make it even more accessible for repairs or adjustments to any of its parts.
 
-(![Team Violet (6)](https://github.com/user-attachments/assets/a1996516-1321-46c5-81b4-a35088e3ac3b)
+![Team Violet (6)](https://github.com/user-attachments/assets/a1996516-1321-46c5-81b4-a35088e3ac3b)
 
 The final design of the robot is intended as a modular design, consisting of 3 modules: lower «traction» module, middle «sensor processing» module, and upper «power supply and color processing» module. This makes it easier to make repairs on any of the modules or to replace or rearrange parts.
 
