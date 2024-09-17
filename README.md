@@ -110,7 +110,7 @@ And to unify the design, we drilled holes in the 3 bases of each module (except 
 ![image](https://github.com/user-attachments/assets/208face9-06aa-460a-b625-3d1684cf0339)
 
 ### Electronics
-  -  **L298N Motor Driver**: Located in the middle module, it is used to control the Hex Motor and the Smart Robot Servo.
+  -  **L298N Motor Driver**: Located in the middle module, it is used to manage the Hex Motor and provide both the Hex Motor and the Smart Robot Servo with energy.
 
 ![image](https://github.com/user-attachments/assets/b318fc25-9c9b-4ae0-9318-8244021ce670)
 
