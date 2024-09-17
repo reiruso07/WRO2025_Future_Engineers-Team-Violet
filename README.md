@@ -75,7 +75,7 @@ With all these changes made, a [3D design](https://github.com/reiruso07/WRO2024_
 ### Photos
 | | |
 | ------------------------- | --------------------------- |
-| ![front](./v-photos/frontview.png) | ![back](./v-photos/backview.png)     |
+| ![front](./main/v-photos/frontview.png) | ![back](./v-photos/backview.png)     |
 | ![left](./v-photos/leftview.png)   | ![right](./v-photos/rightview.png)   |
 | ![top](./v-photos/topview.png)     | ![bottom](./v-photos/bottomview.png) |
 
