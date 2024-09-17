@@ -8,4 +8,5 @@
 ## Old Tests
 ### [- Standard Track, No Obstacles]()
 ### [- Standard Track, No Obstacles]()
-### [- Standard Track, Obstacles]()
+### [- Standard Track, Obstacles #1]()
+### [- Standard Track, Obstacles #2]()
