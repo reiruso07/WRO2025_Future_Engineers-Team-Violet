@@ -8,7 +8,6 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
 - [Team Violet's Members](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#team-violets-members)
 - [Hardware Design](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#hardware-design)
    - [Design Process](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#design-process)
-     - [Photos]()
    - [Assembly Process](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#assembly-process)
    - [Elements](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#elements)
      - [3D Printed](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#3d-printed)
@@ -64,20 +63,13 @@ Alongside the rear-wheel drive, we also made changes to the turning system, repl
 
 Another of these changes was the reorganization of its elements, given the changes in the motors used and the space they now occupied, we made a redistribution to most of the elements present in the robot, this time taking into account to make it even more accessible for repairs or adjustments to any of its parts.
 
-![image](https://github.com/user-attachments/assets/0fe8e963-e1b2-4f1c-b8f5-545ab305a66a)
+![image](./v-photos/leftview.jpg)
 
 The final design of the robot is intended as a modular design, consisting of 3 modules: lower «traction» module, middle «sensor processing» module, and upper «power supply and color processing» module. This makes it easier to make repairs on any of the modules or to replace or rearrange parts.
 
 ![image](https://github.com/user-attachments/assets/d1e977a4-3c6f-47d1-8bdc-23a5092dba35)
 
 With all these changes made, a [3D design](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/tree/main/other/model_structure) for the entire structure of the robot was made, thus facilitating its visualization and analysis.
-
-### Photos
-| | |
-| ------------------------- | --------------------------- |
-| ![front](./v-photos/frontview.jpg) | ![back](./v-photos/backview.jpg)     |
-| ![left](./v-photos/leftview.jpg)   | ![right](./v-photos/rightview.jpg)   |
-| ![top](./v-photos/topview.jpg)     | ![bottom](./v-photos/bottomview.jpg) |
 
 
 ## Assembly Process
