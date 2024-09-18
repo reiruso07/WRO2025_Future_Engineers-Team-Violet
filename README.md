@@ -81,6 +81,10 @@ Finally, we started the assembly of the 3rd and last module, following a sequenc
 
 And to unify the design, we drilled holes in the 3 bases of each module (except the main chassis which was already designed with these holes in mind) and joined them with multiple “pillar shafts” in a tower shape.
 
+You can see the respective connections in the diagram below:
+
+![Team Violet (7)](https://github.com/user-attachments/assets/bff7452e-ade1-47f9-b08e-2854ddbcf0d5)
+
 ## Elements
 ### 3D Printed
 > [!NOTE]
