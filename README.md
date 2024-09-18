@@ -116,7 +116,7 @@ You can see the respective connections in the diagram below:
 
 - **Crossing System Support Piece**: The function of this piece is to join or support the two wheels, in other words, it is the one that produces a support point for them, which allows them to rotate on a fixed axle.
 
-![image](https://github.com/user-attachments/assets/6dd40582-0425-46d5-b936-10a733e9f7de)
+![image](https://github.com/user-attachments/assets/fe4f95f9-720c-4096-bc8b-912c4de935e6)
 
 ### Electronics
   -  **L298N Motor Driver**: Located in the middle module, it is used to manage the Hex Motor and provide both the Hex Motor and the Smart Robot Servo with energy.
