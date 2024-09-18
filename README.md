@@ -132,7 +132,7 @@ And to unify the design, we drilled holes in the 3 bases of each module (except 
 > [!IMPORTANT]
 >Specifications
 >- Output Shaft: 5mm Female Hex
->- Weight: 7 oz
+>- Weight: 199g.
 >- Voltage: 12V DC
 >- Free Speed: 125 RPM
 >- Stall Torque: 3.2 N-m
@@ -148,7 +148,7 @@ And to unify the design, we drilled holes in the 3 bases of each module (except 
 
 > [!IMPORTANT]
 >- Specifications
->- Weight: 2.05 oz.
+>- Weight: 58g.
 >- Speed: 0.14 s/60° (at 6V)
 >- Stall Torque: 13.5 kg-cm / 187.8 oz-in (at 6V)
 >- Stall Current: 2A (at 6V)
