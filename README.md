@@ -114,6 +114,10 @@ You can see the respective connections in the diagram below:
   
 ![image](https://github.com/user-attachments/assets/208face9-06aa-460a-b625-3d1684cf0339)
 
+- **Crossing System Support Piece**: This piece serves the purpose of
+
+  -colocar aca la imagen-
+
 ### Electronics
   -  **L298N Motor Driver**: Located in the middle module, it is used to manage the Hex Motor and provide both the Hex Motor and the Smart Robot Servo with energy.
 
