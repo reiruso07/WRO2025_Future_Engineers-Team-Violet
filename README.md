@@ -282,5 +282,5 @@ The goal of this project is to evaluate the capabilities of the autonomous robot
 The development of this project for the Future Engineers category was quite a journey to come up with a design that could stand up to the challenges we faced, and regardless of the outcome, it will be worth all the effort we made, since in the end, it made us grow.
 
 --------------------------------------------------------------------------------------------------------------------------------------
-Thank You. Team Violet - 2024.
+Thank You. Team Violet - 2025.
 ======================================================================================================================================
