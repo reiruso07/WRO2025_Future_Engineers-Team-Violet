@@ -2,5 +2,6 @@
 
 ## Demonstration Videos
 ### [- Standard Track, No Obstacles](https://youtu.be/GVMM1p4TWF8)
+### [- Standard Track, Obstacles](https://youtu.be/eFcmwkvV04U)
 ### [- Altered Track #1, No Obstacles](https://youtu.be/2meB4UbzeKI)
 ### [- Altered Track #2, No Obstacles](https://youtu.be/sTHwIlyS01U)
