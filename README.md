@@ -281,6 +281,15 @@ The goal of this project is to evaluate the capabilities of the autonomous robot
 
 The development of this project for the Future Engineers category was quite a journey to come up with a design that could stand up to the challenges we faced, and regardless of the outcome, it will be worth all the effort we made, since in the end, it made us grow.
 
+# Our Journey
+Our adventure in the WRO (World Robot Olympiad) began in 2023, when we were invited by our friends from Liceo Los Robles in Maracaibo. At first, it seemed like a simple task, but over time we discovered the true challenge of this competition, which has had a deep impact on us.
+
+In 2024, we, José Miguel, Reinaldo, and Adrián joined forces in the Future Engineers category, embarking on a journey full of challenges and learning experiences. It was a roller coaster of emotions, with moments of triumph and frustration, but every second of effort has been worth it. The countless hours of work, discipline, and sacrifice have not only allowed us to grow in the field of robotics, but have also strengthened us as people. We have developed leadership, conflict resolution, decision-making, and, above all, a strong bond as a team.
+
+2024 was a year of unforgettable achievements. We qualified for the national competition and, thanks to an invitation from Fundesteam Venezuela, we had the honor of participating in the WRO International Open in Brescia, Italy. Traveling to another continent to compete seemed like a dream, and we made it come true. We placed in an outstanding 4th place, just a few points behind the top spots. We were the only representatives from the Americas in our category and received a Gold mention for our performance, which placed us in first place in Latin America for the score achieved.
+This experience filled us with pride and gratitude, but it also motivated us to seek new challenges in 2025. With a lot of effort, we have managed to qualify for the national finals among the top three teams. We are confident that our dedication and discipline will lead us to first place to represent Venezuela at the International Competition in Singapore.
+Today, looking back, we feel immensely proud of how we have grown and overcome challenges together. We are ready to enjoy, cooperate, and give our best at this 2025 WRO National Competition.
+
 --------------------------------------------------------------------------------------------------------------------------------------
 Thank You. Team Violet - 2025.
 ======================================================================================================================================
