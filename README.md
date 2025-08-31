@@ -23,7 +23,7 @@ This has been an incredible journey with a lot of obstacles, and we have done ou
      - [Robot Orientation](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#robot-orientation)
      - [Route Determination](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#route-determination)
    - [Data Sending](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#data-sending)
- - [Impact](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet/blob/main/README.md#impact)
+ - [Impact](https://github.com/reiruso07/WRO2025_Future_Engineers-Team-Violet/blob/main/README.md#impact)
  - [Our Journey](https://github.com/reiruso07/WRO2025_Future_Engineers-Team-Violet/blob/main/README.md#our-journey)
 
 # Team Violet's Members
