@@ -7,3 +7,4 @@
 ### [- Standard Track, Obstacles 2](https://youtu.be/wLStcMTi5x4)
 ### [- Altered Track #1, No Obstacles](https://youtu.be/2meB4UbzeKI)
 ### [- Altered Track #2, No Obstacles](https://youtu.be/sTHwIlyS01U)
+### [- Extra, How to cope with adversity](https://youtube.com/shorts/ftBgpBT6m5o?feature=share)
